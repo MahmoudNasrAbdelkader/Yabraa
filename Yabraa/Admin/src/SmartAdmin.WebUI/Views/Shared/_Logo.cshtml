@@ -1,0 +1,12 @@
+<div class="page-logo" @*style="height: 131px;background-color: white;"*@>
+    <a href="#" class="page-logo-link press-scale-down d-flex align-items-center position-relative">
+        @*<img src="~/img/@(Settings.Theme.Logo)" >*@
+		<img src="~/img/@(Settings.Theme.Logo)" alt="@Settings.AppFlavor" aria-roledescription="logo">
+        <span class="page-logo-text mr-1">Yabraa Medical Center</span>
+		<span class="position-absolute text-white opacity-50 small pos-top pos-right mr-2 mt-n2">v1</span>
+		@if (ViewBag.AppShortcutModal?.Length > 0)
+         { 
+		<i class="@(Settings.Theme.IconPrefix) fa-angle-down d-inline-block ml-1 fs-lg color-primary-300"></i>
+		}
+	</a>
+</div>

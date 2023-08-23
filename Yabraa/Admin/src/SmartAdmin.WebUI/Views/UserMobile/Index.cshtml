@@ -1,0 +1,449 @@
+﻿@model SmartAdmin.WebUI.ViewModel.PagingViewModel<SmartAdmin.WebUI.ViewModel.UsersIndexViewModel>
+@{
+    
+    ViewData["Title"] = "Mobile users";
+    ViewData["PageName"] = "UserMobile_index";
+    int counter = 0;
+}
+@section HeadBlock {
+    <link rel="stylesheet" media="screen, print" href="~/css/datagrid/datatables/datatables.bundle.css">
+    <link rel="stylesheet" media="screen, print" href="~/css/fa-solid.css">
+    <link rel="stylesheet" media="screen, print" href="~/css/notifications/sweetalert2/sweetalert2.bundle.css">
+    <link rel="stylesheet" media="screen, print" href="~/css/theme-demo.css">
+}
+
+
+    <div class="row">
+        <div class="col-xl-12">
+            <div id="panel-1" class="panel">
+                <div class="panel-hdr">
+                    <h2>
+                        Mobile users <span class="fw-300"><i>Table</i></span>
+                    </h2>
+                    <div class="panel-toolbar">
+                        <button class="btn btn-panel" data-action="panel-collapse" data-toggle="tooltip" data-offset="0,10" data-original-title="Collapse"></button>
+                        <button class="btn btn-panel" data-action="panel-fullscreen" data-toggle="tooltip" data-offset="0,10" data-original-title="Fullscreen"></button>
+                        <button class="btn btn-panel" data-action="panel-close" data-toggle="tooltip" data-offset="0,10" data-original-title="Close"></button>
+                    </div>
+                </div>
+                <div class="panel-container show">
+                    <div class="panel-content">
+
+
+                          <div class="card-body">
+                            <div class="table-responsive">
+                                <div id="dataTable_wrapper" class="dataTables_wrapper dt-bootstrap4">
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-2">
+                                            <div class="dataTables_length" id="dataTable_length">
+                                                <form asp-action="Changelength" asp-controller="UserMobile" id="formUserMobileChangelength">
+                                                    <label>
+                                                        Show
+                                                        <select name="length" onchange="document.getElementById('formUserMobileChangelength').submit()" aria-controls="dataTable" class="custom-select custom-select-sm form-control form-control-sm">
+                                                            @if (Model.Tablelength == 10)
+                                                            {
+                                                                <option value="10" selected>10</option>
+                                                            }
+                                                            else
+                                                            {
+                                                                <option value="10">10</option>
+                                                            }
+                                                            @if (Model.Tablelength == 25)
+                                                            {
+                                                                <option value="25" selected>25</option>
+                                                            }
+                                                            else
+                                                            {
+                                                                <option value="25">25</option>
+                                                            }
+                                                            @if (Model.Tablelength == 50)
+                                                            {
+                                                                <option value="50" selected>50</option>
+                                                            }
+                                                            else
+                                                            {
+                                                                <option value="50">50</option>
+                                                            }
+                                                            @if (Model.Tablelength == 100)
+                                                            {
+                                                                <option value="100" selected>100</option>
+                                                            }
+                                                            else
+                                                            {
+                                                                <option value="100">100</option>
+                                                            }
+                                                        </select>
+                                                        entries
+                                                    </label>
+                                                </form>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4">
+
+                                        </div>
+                                        <div class="col-sm-12 col-md-6">
+                                        <div id="dataTable_filter" style="    text-align: end;" class="dataTables_filter">
+                                               
+                                                <label>
+                                                 <input type="text" placeholder="Search" class="form-control form-control-sm" id="txtSearch" value="@ViewBag.Search" aria-controls="dataTable">
+                                                </label>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <br />
+                                    <div class="row">
+                                        <div class="col-sm-12">
+
+                                            <table class="table"   style="width: 100%;">
+                                                <thead>
+                                                    <tr>
+                                                        <th>#</th>                                                   
+                                                        <th>Mobile</th>
+                                                        <th>First name</th>
+                                                        <th>Last name</th>
+                                                        <th>Status</th>
+                                                        <th></th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody id="tbodyTable">
+                                                    @foreach (var item in Model.items)
+                                                    {
+                                                        counter++;
+                                        
+                                                        <tr>
+                                                            <td>
+                                                                @counter
+                                                            </td>
+                                                            
+                                                            <td>
+                                                               @item.PhoneNumber
+                                                            </td>
+                                                            <td>
+                                                               @item.FirstName
+                                                            </td>
+                                                            <td>
+                                                                @item.LastName
+                                                            </td>
+                                                            <td>
+                                                            @if (item.Status.Contains("Deleted"))
+                                                            {
+                                                                <span class="text-danger">@item.Status</span>
+
+                                                            }    else
+                                                                    {
+                                                                <span class="text-secondary"> @item.Status</span>
+                                                                    }
+                                                               
+                                                            </td>
+                                                             <td>
+                                                            <a asp-controller="UserMobile" asp-action="EditUserApplication" asp-route-Id="@item.Id" title="Edit" style="margin: 10px;"><i class="fal fa-edit color-warning-700"></i></a>
+
+                                                            <a asp-controller="UserMobile" asp-action="View" asp-route-Id="@item.Id" title="View">  <i class="fal fa-eye"></i></a>
+                                                        </td>
+                                                        </tr>
+                                                    }
+                                                    @{counter = 0;}
+                                                </tbody>
+                                            </table>
+                                            <input type="hidden" id="hfCurrentPageIndex" name="CurrentPageIndex" value="@Model.CurrentPageIndex" />
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-5">
+
+                                          
+                                            <div class="dataTables_info" id="dataTable_info" role="status" aria-live="polite"> Total @Model.itemsCount items</div>
+
+                                        </div>
+                                        <div class="col-sm-12 col-md-7">
+                                            <div class="dataTables_paginate paging_simple_numbers" id="dataTable_paginate">
+                                                <ul class="pagination">
+                                                    <li class='paginate_button page-item previous @(Model.CurrentPageIndex == 1 ? "disabled":"")' id="dataTable_previous">
+                                                        <a asp-action="Index" asp-controller="UserMobile" asp-route-CurrentPageIndex="@(Model.CurrentPageIndex-1)" asp-route-Search="@ViewBag.Search" aria-controls="dataTable" data-dt-idx="0" tabindex="0" class="page-link">Previous</a>
+                                                    </li>
+                                                    @for (int i = 1; i <= Model.PageCount; i++)
+                                                    {
+                                                        @if (i != Model.CurrentPageIndex)
+                                                        {
+                                                            <li class="paginate_button page-item">
+                                                                <a asp-action="Index" asp-controller="UserMobile" asp-route-CurrentPageIndex="@i" asp-route-Search="@ViewBag.Search" aria-controls="dataTable" data-dt-idx="1" tabindex="0" class="page-link">@i</a>
+                                                            </li>
+                                                        }
+                                                        else
+                                                        {
+                                                            <li class="paginate_button page-item active">
+                                                                <span aria-controls="dataTable" data-dt-idx="1" tabindex="0" class="page-link">@i</span>
+                                                            </li>
+                                                        }
+
+
+                                                    }
+                                                    <li class='paginate_button page-item next @(Model.PageCount == Model.CurrentPageIndex ? "disabled":"")' id="dataTable_next">
+                                                        <a asp-action="Index" asp-controller="UserMobile" asp-route-CurrentPageIndex="@(Model.CurrentPageIndex+1)" asp-route-Search="@ViewBag.Search" aria-controls="dataTable" data-dt-idx="7" tabindex="0" class="page-link">Next</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                          
+
+
+
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+
+@*<div>
+                            <div>
+                                <div>
+                                    <div class="row">
+                                        <div class="col-xl-12 col-xl-2">
+                                            <div class="dataTables_length" id="dataTable_length">
+                                                <form asp-action="Changelength" asp-controller="UserMobile" id="formUserMobileChangelength">
+                                                    <label>
+                                                        Show
+                                                        <select name="length" onchange="document.getElementById('formUserMobileChangelength').submit()" aria-controls="dataTable" class="custom-select custom-select-sm form-control form-control-sm">
+                                                            @if (Model.Tablelength == 10)
+                                                            {
+                                                                <option value="10" selected>10</option>
+                                                            }
+                                                            else
+                                                            {
+                                                                <option value="10">10</option>
+                                                            }
+                                                            @if (Model.Tablelength == 25)
+                                                            {
+                                                                <option value="25" selected>25</option>
+                                                            }
+                                                            else
+                                                            {
+                                                                <option value="25">25</option>
+                                                            }
+                                                            @if (Model.Tablelength == 50)
+                                                            {
+                                                                <option value="50" selected>50</option>
+                                                            }
+                                                            else
+                                                            {
+                                                                <option value="50">50</option>
+                                                            }
+                                                            @if (Model.Tablelength == 100)
+                                                            {
+                                                                <option value="100" selected>100</option>
+                                                            }
+                                                            else
+                                                            {
+                                                                <option value="100">100</option>
+                                                            }
+                                                        </select>
+                                                        entries
+                                                    </label>
+                                                </form>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-12 col-xl-4">
+
+                                        </div>
+                                        <div class="col-xl-12 col-xl-6">
+                                            <div id="dataTable_filter" class="dataTables_filter">
+                                               
+                                                <label>
+                                                 <input placeholder="search" type="text" class="form-control form-control-sm" id="txtSearch" value="@ViewBag.Search" aria-controls="dataTable">
+                                                </label>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-xl-12">
+
+                                            <table class="table "  cellspacing="0" role="grid" aria-describedby="dataTable_info" style="width: 100%;">
+                                                <thead>
+                                                    <tr>
+                                                        <th>#</th>
+                                                        <th>Mobile</th>
+                                                        <th>First name</th>
+                                                        <th>Last name</th>
+                                                        <th></th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody id="tbodyTable">
+                                                    @foreach (var item in Model.items)
+                                                    {
+                                                        counter++;
+                                        
+                                                    <tr>
+                                                        <td>
+                                                            @counter
+                                                        </td>
+                                                        <td>
+                                                           @item.PhoneNumber
+
+                                                         </td>
+                                                            <td>
+                                                              @item.FirstName
+                                                            </td
+                                                             <td>
+                                                              @item.LastName
+                                                            </td>
+                                                            <td>
+                                                       
+
+                                                            </td>
+                                                    </tr>
+                                                    }
+                                                    @{counter = 0;}
+                                                </tbody>
+                                            </table>
+                                            <input type="hidden" id="hfCurrentPageIndex" name="CurrentPageIndex" value="@Model.CurrentPageIndex" />
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-xl-12 col-xl-5">
+
+                                          
+                                            <div class="dataTables_info" id="dataTable_info" role="status" aria-live="polite"> Total @Model.itemsCount items</div>
+
+                                        </div>
+                                        <div class="col-xl-12 col-xl-7">
+                                            <div class="dataTables_paginate paging_simple_numbers" id="dataTable_paginate">
+                                                <ul class="pagination">
+                                                    <li class='paginate_button page-item previous @(Model.CurrentPageIndex == 1 ? "disabled":"")' id="dataTable_previous">
+                                                        <a asp-action="Index" asp-controller="UserMobile" asp-route-CurrentPageIndex="@(Model.CurrentPageIndex-1)" asp-route-Search="@ViewBag.Search" aria-controls="dataTable" data-dt-idx="0" tabindex="0" class="page-link">Previous</a>
+                                                    </li>
+                                                    @for (int i = 1; i <= Model.PageCount; i++)
+                                                    {
+                                                        @if (i != Model.CurrentPageIndex)
+                                                        {
+                                                            <li class="paginate_button page-item">
+                                                                <a asp-action="Index" asp-controller="UserMobile" asp-route-CurrentPageIndex="@i" asp-route-Search="@ViewBag.Search" aria-controls="dataTable" data-dt-idx="1" tabindex="0" class="page-link">@i</a>
+                                                            </li>
+                                                        }
+                                                        else
+                                                        {
+                                                            <li class="paginate_button page-item active">
+                                                                <span aria-controls="dataTable" data-dt-idx="1" tabindex="0" class="page-link">@i</span>
+                                                            </li>
+                                                        }
+
+
+                                                    }
+                                                    <li class='paginate_button page-item next @(Model.PageCount == Model.CurrentPageIndex ? "disabled":"")' id="dataTable_next">
+                                                        <a asp-action="Index" asp-controller="UserMobile" asp-route-CurrentPageIndex="@(Model.CurrentPageIndex+1)" asp-route-Search="@ViewBag.Search" aria-controls="dataTable" data-dt-idx="7" tabindex="0" class="page-link">Next</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>*@
+
+
+
+
+
+
+@section ScriptsBlock {
+    <script src="~/js/datagrid/datatables/datatables.bundle.js"></script>
+    <script src="~/js/datagrid/datatables/datatables.export.js"></script>
+    <script src="~/js/notifications/sweetalert2/sweetalert2.bundle.js"></script>
+    <script>
+        $(document).ready(function () {
+            // initialize datatable
+            $('#dt-basic-example').dataTable({
+                responsive: true,
+                lengthChange: false,
+                dom:
+                    /*	--- Layout Structure
+                        --- Options
+                        l	-	length changing input control
+                        f	-	filtering input
+                        t	-	The table!
+                        i	-	Table information summary
+                        p	-	pagination control
+                        r	-	processing display element
+                        B	-	buttons
+                        R	-	ColReorder
+                        S	-	Select
+                        --- Markup
+                        < and >				- div element
+                        <"class" and >		- div with a class
+                        <"#id" and >		- div with an ID
+                        <"#id.class" and >	- div with an ID and a class
+                        --- Further reading
+                        https://datatables.net/reference/option/dom
+                        --------------------------------------
+                     */
+                    "<'row mb-3'<'col-sm-12 col-md-6 d-flex align-items-center justify-content-start'f><'col-sm-12 col-md-6 d-flex align-items-center justify-content-end'lB>>" +
+                    "<'row'<'col-sm-12'tr>>" +
+                    "<'row'<'col-sm-12 col-md-5'i><'col-sm-12 col-md-7'p>>",
+                buttons: [
+                    /*{
+                        extend:    'colvis',
+                        text:      'Column Visibility',
+                        titleAttr: 'Col visibility',
+                        className: 'mr-sm-3'
+                    },*/
+                    {
+                        extend: 'pdfHtml5',
+                        text: 'PDF',
+                        titleAttr: 'Generate PDF',
+                        className: 'btn-outline-danger btn-sm mr-1'
+                    },
+                    {
+                        extend: 'excelHtml5',
+                        text: 'Excel',
+                        titleAttr: 'Generate Excel',
+                        className: 'btn-outline-success btn-sm mr-1'
+                    },
+                    {
+                        extend: 'csvHtml5',
+                        text: 'CSV',
+                        titleAttr: 'Generate CSV',
+                        className: 'btn-outline-primary btn-sm mr-1'
+                    },
+                    {
+                        extend: 'copyHtml5',
+                        text: 'Copy',
+                        titleAttr: 'Copy to clipboard',
+                        className: 'btn-outline-primary btn-sm mr-1'
+                    },
+                    {
+                        extend: 'print',
+                        text: 'Print',
+                        titleAttr: 'Print Table',
+                        className: 'btn-outline-primary btn-sm'
+                    }
+                ]
+            });
+        });
+
+
+      
+
+        function searchUserMobile() {
+            $("#tbodyTable").empty();
+            $('#tbodyTable').append('<div style=" margin: 20% 50%;" class="spinner-grow text-primary"></div>');
+            
+            window.location.href = "/UserMobile/Index?CurrentPageIndex=1&&Search=" + $("#txtSearch").val();
+
+        }
+        $("#txtSearch").keyup(function (event) {
+            if (event.keyCode === 13) {
+                searchUserMobile();
+            }
+        });
+       
+    </script>
+}
+
+
+                      

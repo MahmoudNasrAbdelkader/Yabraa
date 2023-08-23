@@ -1,0 +1,217 @@
+﻿@model SmartAdmin.WebUI.ViewModel.CategoryCreateViewModel
+@{
+   
+    //if (!Model.CategoryId.HasValue)
+    //{
+    //    ViewData["Title"] = "Add Filter";
+    //}
+    //else
+    //{
+    //    ViewData["Title"] = "Edit Filter";
+    //}
+    ViewData["Title"] = "Filter";
+    ViewData["PageName"] = "category_create";
+}
+@section HeadBlock {
+    <link rel="stylesheet" media="screen, print" href="~/css/fa-brands.css">
+    <link rel="stylesheet" media="screen, print" href="~/css/formplugins/select2/select2.bundle.css">
+}
+    <div class="row">
+        <div class="col-xl-12">
+            <div id="panel-1" class="panel">
+                <div class="panel-hdr">
+                    @if (!Model.CategoryId.HasValue)
+                    {
+                        <h2>
+                            Add Filter / اضافة فلتر <span class="fw-300"><i></i></span>
+                        </h2>
+                    }
+                    else
+                    {
+                        <h2>Edit Filter / تعديل فلتر <span class="fw-300"><i></i></span></h2>
+                    }
+                   
+                    <div class="panel-toolbar">
+                        <button class="btn btn-panel" data-action="panel-collapse" data-toggle="tooltip" data-offset="0,10" data-original-title="Collapse"></button>
+                        <button class="btn btn-panel" data-action="panel-fullscreen" data-toggle="tooltip" data-offset="0,10" data-original-title="Fullscreen"></button>
+                        <button class="btn btn-panel" data-action="panel-close" data-toggle="tooltip" data-offset="0,10" data-original-title="Close"></button>
+                    </div>
+                </div>
+                <div class="panel-container show">
+                    <div class="panel-content">
+
+                    <form asp-action="@(Model.CategoryId.HasValue ? "Edit" :"Create")" asp-controller="Category" method="post" >
+                        @if (Model.CategoryId.HasValue)
+                        {
+                            <input type="hidden" asp-for="CategoryId" />
+
+                        }
+                        <div class="row mb-3">
+                                <div class="col-lg-6">
+                                    <div class="form-group">
+                                        <label class="form-label" for="simpleinput-1">Name Arabic</label>
+                                        <input type="text" id="simpleinput-1" asp-for="NameAR" class="form-control" required dir="rtl">
+                                        <span asp-validation-for="NameAR" class="text-danger"></span>
+
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+
+                                    <div class="form-group">
+                                        <label class="form-label" for="simpleinput-2">Name English</label>
+                                        <input type="text" id="simpleinput-2" asp-for="NameEN" class="form-control">
+                                        <span asp-validation-for="NameEN" class="text-danger"></span>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="row mb-3">
+                                <div class="col-xl-6">
+                                    <div class="form-group">
+                                    <label class="form-label">Service</label>
+                                        <select class="custom-select form-control" asp-for="ServiceId" asp-items="Model.Services" required>
+                                            <option >-select-</option>
+                                        </select>
+                                        <span asp-validation-for="ServiceId" class="text-danger"></span>
+
+                                    </div>
+                                </div>
+                                <div class="col-xl-6">
+                                    <div class="row mb-3">
+                                        <div class="col-xl-8">
+                                            
+                                        </div>
+                                        <div class="col-xl-4">
+                                            <button class="btn btn-primary ml-auto waves-effect waves-themed" type="submit" style="margin: 11%;width: inherit; ">
+                                                Submit
+                                            </button>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+
+                                @* <div class="col-xl-10">
+                            <div class="custom-file">
+                            <input type="file" class="custom-file-input" id="inputGroupFile01"  aria-describedby="inputGroupFileAddon01">
+                            <label class="custom-file-label" for="inputGroupFile01">Choose Photo</label>
+                            </div>
+                            </div>*@
+
+                            </div>
+
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @* end panel  *@
+    </div>
+
+    @section ScriptsBlock {
+    <script type="text/javascript">
+        var example_gridsize = $("#example-gridsize");
+        $("#gridrange").on("input change", function () {
+            //do something
+            example_gridsize.attr("placeholder", ".col-" + $(this).val());
+            example_gridsize.parent().removeClass().addClass("col-" + $(this).val())
+            console.log("col-" + $(this).val());
+        });</script>
+
+
+    @* Script for Sellect 2 *@
+
+    <script src="~/js/formplugins/select2/select2.bundle.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(function () {
+                $('.select2').select2();
+                $(".select2-placeholder-multiple").select2({
+                    placeholder: "Select State"
+                });
+                $(".js-hide-search").select2({
+                    minimumResultsForSearch: 1 / 0
+                });
+                $(".js-max-length").select2({
+                    maximumSelectionLength: 2,
+                    placeholder: "Select maximum 2 items"
+                });
+                $(".select2-placeholder").select2({
+                    placeholder: "Select a state",
+                    allowClear: true
+                });
+                $(".js-select2-icons").select2({
+                    minimumResultsForSearch: 1 / 0,
+                    templateResult: icon,
+                    templateSelection: icon,
+                    escapeMarkup: function (elm) {
+                        return elm
+                    }
+                });
+                function icon(elm) {
+                    elm.element;
+                    return elm.id ? "<i class='" + $(elm.element).data("icon") + " mr-2'></i>" + elm.text : elm.text
+                }
+                $(".js-data-example-ajax").select2({
+                    ajax: {
+                        url: "https://api.github.com/search/repositories",
+                        dataType: 'json',
+                        delay: 250,
+                        data: function (params) {
+                            return {
+                                q: params.term, // search term
+                                page: params.page
+                            };
+                        },
+                        processResults: function (data, params) {
+                            // parse the results into the format expected by Select2
+                            // since we are using custom formatting functions we do not need to
+                            // alter the remote JSON data, except to indicate that infinite
+                            // scrolling can be used
+                            params.page = params.page || 1;
+                            return {
+                                results: data.items,
+                                pagination: {
+                                    more: (params.page * 30) < data.total_count
+                                }
+                            };
+                        },
+                        cache: true
+                    },
+                    placeholder: 'Search for a repository',
+                    escapeMarkup: function (markup) { return markup; }, // let our custom formatter work
+                    minimumInputLength: 1,
+                    templateResult: formatRepo,
+                    templateSelection: formatRepoSelection
+                });
+                function formatRepo(repo) {
+                    if (repo.loading) {
+                        return repo.text;
+                    }
+                    var markup = "<div class='select2-result-repository clearfix d-flex'>" +
+                        "<div class='select2-result-repository__avatar mr-2'><img src='" + repo.owner.avatar_url + "' class='width-2 height-2 mt-1 rounded' /></div>" +
+                        "<div class='select2-result-repository__meta'>" +
+                        "<div class='select2-result-repository__title fs-lg fw-500'>" + repo.full_name + "</div>";
+                    if (repo.description) {
+                        markup += "<div class='select2-result-repository__description fs-xs opacity-80 mb-1'>" + repo.description + "</div>";
+                    }
+                    markup += "<div class='select2-result-repository__statistics d-flex fs-sm'>" +
+                        "<div class='select2-result-repository__forks mr-2'><i class='@(Settings.Theme.IconPrefix) fa-lightbulb'></i> " + repo.forks_count + " Forks</div>" +
+                        "<div class='select2-result-repository__stargazers mr-2'><i class='@(Settings.Theme.IconPrefix) fa-star'></i> " + repo.stargazers_count + " Stars</div>" +
+                        "<div class='select2-result-repository__watchers mr-2'><i class='@(Settings.Theme.IconPrefix) fa-eye'></i> " + repo.watchers_count + " Watchers</div>" +
+                        "</div>" +
+                        "</div></div>";
+                    return markup;
+                }
+                function formatRepoSelection(repo) {
+                    return repo.full_name || repo.text;
+                }
+            });
+        });
+    </script>
+
+}

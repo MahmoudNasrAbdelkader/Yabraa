@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\gallery\\Home_Health_Companions_Bl.png",
+      "PackagePath": "staticwebassets\\gallery\\Home_Health_Companions_Bl.png"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\gallery\\images.jpg",
+      "PackagePath": "staticwebassets\\gallery\\images.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\gallery\\images_fgfg.jpg",
+      "PackagePath": "staticwebassets\\gallery\\images_fgfg.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\gallery\\imagesjnklj.jpg",
+      "PackagePath": "staticwebassets\\gallery\\imagesjnklj.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\gallery\\nurse-assessment-e1640928277978.jpg",
+      "PackagePath": "staticwebassets\\gallery\\nurse-assessment-e1640928277978.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\Home-Solutions.jpg",
+      "PackagePath": "staticwebassets\\packagesImage\\Home-Solutions.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\Lab.jpg",
+      "PackagePath": "staticwebassets\\packagesImage\\Lab.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\image-asset.jpeg",
+      "PackagePath": "staticwebassets\\packagesImage\\image-asset.jpeg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\images.jpg",
+      "PackagePath": "staticwebassets\\packagesImage\\images.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\imageshc.jpg",
+      "PackagePath": "staticwebassets\\packagesImage\\imageshc.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\preparing_for_lab_test.png",
+      "PackagePath": "staticwebassets\\packagesImage\\preparing_for_lab_test.png"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\whoweare.jpg",
+      "PackagePath": "staticwebassets\\packagesImage\\whoweare.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\7-things-to-do.jpg",
+      "PackagePath": "staticwebassets\\servicesImages\\7-things-to-do.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\IMG-20191215-WA0003.jpg",
+      "PackagePath": "staticwebassets\\servicesImages\\IMG-20191215-WA0003.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\caregiver-resources.png",
+      "PackagePath": "staticwebassets\\servicesImages\\caregiver-resources.png"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\homecare-services-header-image.jpg",
+      "PackagePath": "staticwebassets\\servicesImages\\homecare-services-header-image.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\managing-parents-finances.jpg",
+      "PackagePath": "staticwebassets\\servicesImages\\managing-parents-finances.jpg"
+    },
+    {
+      "Id": "F:\\P\\backup\\14-4-2023\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\paying-for-home-care.jpg",
+      "PackagePath": "staticwebassets\\servicesImages\\paying-for-home-care.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Yabraa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Yabraa.props",
+      "PackagePath": "build\\Yabraa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Yabraa.props",
+      "PackagePath": "buildMultiTargeting\\Yabraa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Yabraa.props",
+      "PackagePath": "buildTransitive\\Yabraa.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

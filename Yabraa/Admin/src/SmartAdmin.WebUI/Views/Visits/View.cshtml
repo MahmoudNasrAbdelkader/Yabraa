@@ -1,0 +1,582 @@
+﻿@model SmartAdmin.WebUI.ViewModel.VisitViewModel
+@{
+
+    ViewData["Title"] = "View visit information";
+    //ViewData["PageName"] = "Visits_index";
+     if (Model.ServiceType == "Normal")
+    {
+        ViewData["PageName"] = "Visits_Normal";
+    }
+    else if (Model.ServiceType == "Virtual")
+    {
+        ViewData["PageName"] = "Visits_Virtual";
+    }
+    ViewData["Heading"] = "<i class='subheader-icon fal fa-chart-area'></i> Visit";
+    int counter = 1;
+    int counter2 = 1;
+}
+@section HeadBlock {
+    <link rel="stylesheet" media="screen, print" href="~/css/theme-demo.css">
+    <link rel="stylesheet" media="screen, print" href="~/css/page-invoice.css">
+    <link rel="stylesheet" media="screen, print" href="~/css/notifications/sweetalert2/sweetalert2.bundle.css">
+         <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+         <style>
+               #map{
+                      float: left;
+                      height: 100%;
+                      width: 50%;
+                    }
+         </style>
+}
+    <div class="row">
+        <div class="col-xl-12">
+            <div id="panel-1" class="panel">
+                <div class="panel-hdr">
+                    <h2>
+                        User :  <a asp-controller="UserMobile" asp-action="View" asp-route-Id="@Model.ApplicationUserId" > @Model.ApplicationUserName</a>
+                       
+                    </h2>
+                    <div class="panel-toolbar">
+                        <button class="btn btn-panel" data-action="panel-collapse" data-toggle="tooltip" data-offset="0,10" data-original-title="Collapse"></button>
+                        <button class="btn btn-panel" data-action="panel-fullscreen" data-toggle="tooltip" data-offset="0,10" data-original-title="Fullscreen"></button>
+                        <button class="btn btn-panel" data-action="panel-close" data-toggle="tooltip" data-offset="0,10" data-original-title="Close"></button>
+                    </div>
+                </div>
+                <div class="panel-container show">
+                    <div class="panel-content">
+                        <div class="frame-wrap w-100">
+                            <div class="accordion" id="js_demo_accordion-4">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <a href="javascript:void(0);" class="card-title" data-toggle="collapse" data-target="#js_demo_accordion-4a" aria-expanded="true">
+                                            Visit  information
+                                            <span class="ml-auto">
+                                                <span class="collapsed-reveal">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-minus-circle text-danger fs-xl"></i>
+                                                </span>
+                                                <span class="collapsed-hidden">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-plus-circle text-success fs-xl"></i>
+                                                </span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                    <div id="js_demo_accordion-4a" class="collapse show" data-parent="#js_demo_accordion-4">
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col-sm-4 d-flex">
+                                                    <div class="table-responsive">
+                                                        <table class="table table-clean table-sm">
+                                                            <tbody>
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        UserName :
+                                                                    </td>
+                                                                    <td>
+                                                                      <a asp-controller="UserMobile" asp-action="View" asp-route-Id="@Model.ApplicationUserId" >@Model.ApplicationUserName</a>
+                                                                    </td>
+
+                                                                </tr>
+
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Visiting time :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.VisitDT.ToString("dd-MM-yyyy HH:mm tt")
+                                                                    </td>
+
+                                                                </tr>
+
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Payment :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.payment
+                                                                    </td>
+                                                                </tr>
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Type :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.ServiceType
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-4 ml-sm-auto">
+                                                    <div class="table-responsive">
+                                                        <table class="table table-sm table-clean ">
+                                                            <tbody>
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Patient Name :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.UserFamilyName
+                                                                    </td>
+
+
+                                                                </tr>
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Patient Gender :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.UserFamilyGender
+                                                                    </td>
+
+                                                                </tr>
+
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Patient's date of birth :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.UserFamilyBirthDate.ToString("dd-MM-yyyy")
+                                                                </td>
+                                                            </tr>
+                                                          
+                                                           
+
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-sm-4 ml-sm-auto">
+                                                <div class="table-responsive">
+                                                    <table class="table table-sm table-clean ">
+                                                        <tbody>
+                                                            <tr style="border-bottom: ridge;">
+                                                                <td>
+                                                                    Package Name (Arabic) :
+                                                                </td>
+                                                                <td>
+                                                                   <a asp-controller="Package" asp-action="View" asp-route-PackageId="@Model.PackageId" title="View"> @Model.PackageNameAR</a>     
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr style="border-bottom: ridge;">
+                                                                <td>
+                                                                    Package Name (English) :
+                                                                </td>
+                                                                <td>
+                                                                    <a asp-controller="Package" asp-action="View" asp-route-PackageId="@Model.PackageId" title="View">  @Model.PackageNameEN</a>                                         
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr style="border-bottom: ridge;">
+                                                                <td>
+                                                                        Price :
+                                                                </td>
+                                                                <td>
+                                                                        @Model.Price.ToString("F2")
+
+                                                                </td>
+                                                            </tr>
+
+                                                            
+                                                            <tr style="border-bottom: ridge;">
+                                                                <td>
+                                                                        Status :
+                                                                </td>
+                                                                <td>
+                                                                    @if (@Model.Status.Contains("Pending"))
+                                                                    {
+                                                                        <p class="text-warning">@Model.Status</p>
+
+                                                                    }
+                                                                    else if (@Model.Status.Contains("Done"))
+                                                                    {
+                                                                        <p class="text-success">@Model.Status</p>
+                                                                    }
+                                                                    else if (@Model.Status.Contains("Rejected"))
+                                                                    {
+                                                                        <p class="text-danger">@Model.Status</p>
+                                                                    }
+                                                                    else if (@Model.Status.Contains("Canceled"))
+                                                                    {
+                                                                        <p class="text-secondary">@Model.Status</p>
+                                                                    }
+                                                                    else
+                                                                    {
+                                                                        <p class="text-secondary">@Model.Status</p>
+                                                                    }
+                                                                        
+                                                                   
+                                                                </td>
+                                                            </tr>
+
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-sm-12 col-xl-12 d-flex">
+                                                    <div class="form-group" style="width:100%;">
+                                                    <label class="form-label" for="example-textarea-1">Notes</label>
+                                                    <textarea class="form-control" id="example-textarea-1" asp-for="Notes" rows="5" disabled></textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row mb-3">
+                                             <div class="col-xl-8"></div>
+                                                <div class="col-xl-2">
+                                                    <a class="btn btn-danger ml-auto waves-effect waves-themed" asp-controller="Visits" asp-action="ChangeStatus" asp-route-VisitDetailsId="@Model.VisitDetailsId" asp-route-Status="Rejected" style="margin: 11%;width: inherit; ">
+                                                        Rejected
+                                                    </a>
+                                                </div>
+                                                <div class="col-xl-2">                                                   
+                                                    <a class="btn btn-success ml-auto waves-effect waves-themed" asp-controller="Visits" asp-action="ChangeStatus" asp-route-VisitDetailsId="@Model.VisitDetailsId" asp-route-Status="Done" style="margin: 11%;width: inherit; ">
+                                                        Done
+                                                    </a>
+                                                </div>
+
+                                        </div>
+                                       
+                                    </div>
+                                </div>
+                                </div>
+
+
+                                <div class="card">
+                                    <div class="card-header">
+                                        <a href="javascript:void(0);" class="card-title collapsed" data-toggle="collapse" data-target="#js_demo_accordion-4c" aria-expanded="false">
+                                             Notes 
+                                            <span class="ml-auto">
+                                                <span class="collapsed-reveal">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-minus-circle text-danger fs-xl"></i>
+                                                </span>
+                                                <span class="collapsed-hidden">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-plus-circle text-success fs-xl"></i>
+                                                </span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                    <div id="js_demo_accordion-4c" class="collapse" data-parent="#js_demo_accordion-4">
+                                        <div class="card-body">
+                                            <div class="panel-container show">
+                                                <div class="panel-content">
+
+                                                    <form asp-action="AddNote" asp-controller="Visits" method="post" >
+
+                                                        <input type="hidden" asp-for="VisitDetailsId"/>
+
+                                                            <div class="row mb-3">
+                                                                <div class="col-lg-6">
+                                                                    <div class="form-group">
+                                                                        <label class="form-label" for="simpleinput-1">Title</label>
+                                                                        <input type="text" id="simpleinput-1" name="Title" class="form-control" required>
+                                                                    </div>
+                                                                </div>
+                                                             </div>
+
+                                                            <div class="row mb-3">
+                                                                <div class="col-lg-12">
+                                                                    <div class="form-group">
+                                                                        <label class="form-label" for="simpleinput-1">Description</label>
+                                                                         <textarea class="form-control" name="Description"  id="example-textarea" required rows="5"></textarea>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="row mb-3">
+                                                                <div class="col-xl-10">
+                                                                </div>
+                                                                <div class="col-xl-2">
+                                                                    <button class="btn btn-primary ml-auto waves-effect waves-themed" type="submit" style="width:inherit;">
+                                                                        Submit
+                                                                    </button>
+                                                                </div>
+                                                            </div>
+                                                    </form>
+                                                   @if (Model.visitNotes is not null && Model.visitNotes.Count > 0)
+                                                    {
+                                                    
+                                                    <hr />
+                                                        
+                                                        <div class="frame-wrap">
+                                                            <table class="table m-0">
+                                                                <thead class="thead-dark">
+                                                                    <tr>
+                                                                        <th>#</th>
+                                                                        <th>Title</th>
+                                                                        <th>Description</th>
+                                                                    <th style="min-width:150px;">Date</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    @foreach (var item in Model.visitNotes)
+                                                                    {   <tr>
+                                                                        <th scope="row"> @(counter++)</th>
+                                                                        <td>@item.Title</td>
+                                                                        <td>@item.Description</td>
+                                                                        <td>@item.CreateDTs.ToString("dd-MM-yyyy HH:mm tt")</td>
+                                                                        </tr>
+                                                                    
+                                                                }
+                                                                  
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    
+
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                 <div class="card">
+                                    <div class="card-header">
+                                        <a href="javascript:void(0);" class="card-title collapsed" data-toggle="collapse" data-target="#js_demo_accordion-4d" aria-expanded="false">
+                                             Attachments 
+                                            <span class="ml-auto">
+                                                <span class="collapsed-reveal">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-minus-circle text-danger fs-xl"></i>
+                                                </span>
+                                                <span class="collapsed-hidden">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-plus-circle text-success fs-xl"></i>
+                                                </span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                    <div id="js_demo_accordion-4d" class="collapse" data-parent="#js_demo_accordion-4">
+                                        <div class="card-body">
+                                            <div class="panel-container show">
+                                                <div class="panel-content">
+                                                    <form asp-action="AddAttachment" asp-controller="Visits" method="post" enctype="multipart/form-data">
+
+                                                        <input type="hidden" asp-for="VisitDetailsId" />
+
+                                                        <div class="row mb-3">
+                                                            <div class="col-lg-4">
+                                                                <div class="form-group">
+                                                                    <label class="form-label" for="simpleinput-1">Title</label>
+                                                                    <input type="text" id="simpleinput-1" name="Title" class="form-control" required>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-lg-4">
+                                                                <div class="form-group">
+                                                                    <label class="form-label" for="simpleinput-1">File</label>
+                                                                    <input type="file" class="custom-file-input" onchange="validateFile()" id="customFile" name="File" style="opacity: inherit;" required />
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xl-2">
+                                                                <button class="btn btn-primary ml-auto waves-effect waves-themed" type="submit" style="width:inherit; margin-top: 12%;">
+                                                                    Submit
+                                                                </button>
+                                                            </div>
+                                                        </div>                                                  
+                                                    </form>
+                                                    @if (Model.visitAttachments is not null && Model.visitAttachments.Count > 0)
+                                                    {
+                                                    
+                                                    <hr />
+                                                        
+                                                        <div class="frame-wrap">
+                                                            <table class="table m-0">
+                                                                <thead class="thead-dark">
+                                                                    <tr>
+                                                                        <th>#</th>
+                                                                        <th>Title</th>
+                                                                        <th>File</th>
+                                                                    <th style="min-width:150px;">Date</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                @foreach (var item in Model.visitAttachments)
+                                                                {   <tr>
+                                                                        <th scope="row"> @(counter2++)</th>
+                                                                        <td>@item.Title</td>
+                                                                        <td>
+                                                                            <a id="download-pdf" href="@item.Path">Download</a>
+
+                                                                        </td>
+                                                                        <td>@item.CreateDTs.ToString("dd-MM-yyyy HH:mm tt")</td>
+                                                                        </tr>
+                                                                    
+                                                                }
+                                                                  
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    
+
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @if (Model.ServiceType == "Normal")
+                                {
+                                     <div class="card">
+                                    <div class="card-header">
+                                        <a href="javascript:void(0);" class="card-title collapsed" data-toggle="collapse" data-target="#js_demo_accordion-4b" aria-expanded="false">
+                                            Address <span id="spAddress"></span>
+                                            <span class="ml-auto">
+                                                <span class="collapsed-reveal">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-minus-circle text-danger fs-xl"></i>
+                                                </span>
+                                                <span class="collapsed-hidden">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-plus-circle text-success fs-xl"></i>
+                                                </span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                    <div id="js_demo_accordion-4b" class="collapse" data-parent="#js_demo_accordion-4">
+                                        <div class="card-body">
+                                            <div class="panel-container show">
+                                                <div class="panel-content">
+
+                                                    <div id="map" style="width: 100%;height: 600px;"></div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                }
+                               
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section ScriptsBlock {
+
+@*    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBeVjNeRlk_P9LWzOps0ypDasWh1rhuuNs&callback=initMap&v=weekly"
+        defer></script>*@
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBeVjNeRlk_P9LWzOps0ypDasWh1rhuuNs&libraries=geometry"></script>
+    <script src="~/js/notifications/sweetalert2/sweetalert2.bundle.js"></script>
+
+    <script>
+        (g => { var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__", m = document, b = window; b = b[c] || (b[c] = {}); var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams, u = () => h || (h = new Promise(async (f, n) => { await (a = m.createElement("script")); e.set("libraries", [...r] + ""); for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]); e.set("callback", c + ".maps." + q); a.src = `https://maps.${c}apis.com/maps/api/js?` + e; d[q] = f; a.onerror = () => h = n(Error(p + " could not load.")); a.nonce = m.querySelector("script[nonce]")?.nonce || ""; m.head.append(a) })); d[l] ? console.warn(p + " only loads once. Ignoring:", g) : d[l] = (f, ...n) => r.add(f) && u().then(() => d[l](f, ...n)) })
+            ({ key: "AIzaSyBeVjNeRlk_P9LWzOps0ypDasWh1rhuuNs", v: "beta" });</script>
+
+        <script>
+             var latitude = @Html.Raw(Json.Serialize(Model.LocationLatitude));
+            var longitude = @Html.Raw(Json.Serialize(Model.LocationLongitude));
+        async function initMap() {
+           
+            // Request needed libraries.
+            const { Map } = await google.maps.importLibrary("maps");
+            const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
+            const map = new Map(document.getElementById("map"), {
+                center: { lat: latitude, lng: longitude },
+                zoom: 15,
+                mapId: "4504f8b37365c3d0",
+            });
+            const marker = new AdvancedMarkerElement({
+                map,
+                position: { lat: latitude, lng: longitude },
+            });
+        }
+
+       
+        function getAddress(latitude, longitude) {
+            const geocoder = new google.maps.Geocoder();
+            const latlng = new google.maps.LatLng(latitude, longitude);
+
+            geocoder.geocode({ location: latlng }, (results, status) => {
+                if (status === "OK") {
+                    if (results[0]) {
+                        const address = results[0].formatted_address;
+                        document.getElementById("spAddress").innerHTML = " : " + address;                        
+                    } else {
+                        console.log("No results found");
+                    }
+                } else {
+                    console.log(`Geocoder failed due to: ${status}`);
+                }
+            });
+        }
+        $(document).ready(function () {
+            if ("@Model.ServiceType" == "Normal") {
+                 initMap();      
+                 getAddress(latitude, longitude);
+            }
+           
+           
+            if ("@ViewBag.ErrorMessageNoteOrAttachment" != "")
+            {
+                var swalWithBootstrapButtons = Swal.mixin({
+                    customClass: {
+                        cancelButton: "btn btn-danger mr-2"
+                    },
+                    buttonsStyling: false
+                });
+                swalWithBootstrapButtons
+                    .fire({
+                        title: "Error !!",
+                    text: "Please check your inputs!",
+                        type: "warning",
+                        showCancelButton: true,
+                        cancelButtonText: "No, cancel!",
+                        reverseButtons: true
+                    });
+            }
+           
+        });
+        </script>
+    <script>
+        function validateFile() {
+            var fileInput = document.getElementById('customFile');
+            var fileSize = fileInput.files[0].size;
+            var maxSize = 5 * 1024 * 1024; // 5MB
+
+            if (fileSize > maxSize) {
+                
+                var swalWithBootstrapButtons = Swal.mixin({
+                    customClass: {
+                        cancelButton: "btn btn-danger mr-2"
+                    },
+                    buttonsStyling: false
+                });
+                swalWithBootstrapButtons
+                    .fire({
+                        title: "Error !!",
+                        text: "File size exceeds the limit. Please select a smaller file ( Max Size 5MB ).!",
+                        type: "warning",
+                        showCancelButton: true,
+                        cancelButtonText: "No, cancel!",
+                        reverseButtons: true
+                    });
+                fileInput.value = ''; // Clear the input field
+            }
+        }
+    </script>
+<script>
+document.getElementById("downloadButton").addEventListener("click", function() {
+    // Replace "filePath" with the actual path of the file you want to download
+    var filePath = "@Url.Content("~/Path/To/File.pdf")";
+
+    // Create a temporary link element
+    var link = document.createElement("a");
+    link.href = filePath;
+    link.download = "file.pdf"; // Specify the desired file name
+
+    // Dispatch a click event on the link element
+    var event = new MouseEvent("click");
+    link.dispatchEvent(event);
+});
+
+</script>
+}

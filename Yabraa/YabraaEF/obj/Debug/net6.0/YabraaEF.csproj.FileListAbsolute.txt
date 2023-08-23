@@ -1,0 +1,42 @@
+F:\P\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.deps.json
+F:\P\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.runtimeconfig.json
+F:\P\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.dll
+F:\P\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.pdb
+F:\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.csproj.AssemblyReference.cache
+F:\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.GeneratedMSBuildEditorConfig.editorconfig
+F:\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.AssemblyInfoInputs.cache
+F:\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.AssemblyInfo.cs
+F:\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.csproj.CoreCompileInputs.cache
+F:\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.dll
+F:\P\Yabraa\YabraaEF\obj\Debug\net6.0\refint\YabraaEF.dll
+F:\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.pdb
+F:\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.genruntimeconfig.cache
+F:\P\Yabraa\YabraaEF\obj\Debug\net6.0\ref\YabraaEF.dll
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.deps.json
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.runtimeconfig.json
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.dll
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.pdb
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.csproj.AssemblyReference.cache
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.GeneratedMSBuildEditorConfig.editorconfig
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.AssemblyInfoInputs.cache
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.AssemblyInfo.cs
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.csproj.CoreCompileInputs.cache
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.dll
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\obj\Debug\net6.0\refint\YabraaEF.dll
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.pdb
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.genruntimeconfig.cache
+F:\P\backup\14-4-2023\Yabraa\YabraaEF\obj\Debug\net6.0\ref\YabraaEF.dll
+D:\New folder (2)\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.csproj.AssemblyReference.cache
+D:\New folder (2)\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.AssemblyInfoInputs.cache
+D:\New folder (2)\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.AssemblyInfo.cs
+D:\New folder (2)\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.csproj.CoreCompileInputs.cache
+D:\New folder (2)\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.dll
+D:\New folder (2)\P\Yabraa\YabraaEF\obj\Debug\net6.0\refint\YabraaEF.dll
+D:\New folder (2)\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.pdb
+D:\New folder (2)\P\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.deps.json
+D:\New folder (2)\P\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.runtimeconfig.json
+D:\New folder (2)\P\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.dll
+D:\New folder (2)\P\Yabraa\YabraaEF\bin\Debug\net6.0\YabraaEF.pdb
+D:\New folder (2)\P\Yabraa\YabraaEF\obj\Debug\net6.0\YabraaEF.genruntimeconfig.cache
+D:\New folder (2)\P\Yabraa\YabraaEF\obj\Debug\net6.0\ref\YabraaEF.dll

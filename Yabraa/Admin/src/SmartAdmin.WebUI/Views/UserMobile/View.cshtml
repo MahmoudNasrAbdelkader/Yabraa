@@ -1,0 +1,441 @@
+﻿@model SmartAdmin.WebUI.ViewModel.UserViewModel
+@{
+    
+     ViewData["Title"] = "Mobile users";
+    ViewData["PageName"] = "UserMobile_index";
+    int counter = 0;
+}
+@section HeadBlock {
+    <link rel="stylesheet" media="screen, print" href="~/css/theme-demo.css">
+    <link rel="stylesheet" media="screen, print" href="~/css/page-invoice.css">
+     <link rel="stylesheet" media="screen, print" href="~/css/datagrid/datatables/datatables.bundle.css">
+    <link rel="stylesheet" media="screen, print" href="~/css/fa-solid.css">
+}
+
+
+
+    <div class="row">
+        <div class="col-xl-12">
+            <div id="panel-1" class="panel">
+                <div class="panel-hdr">
+                    <h2>
+                        User : @Model.UserName 
+                    </h2>
+                    <div class="panel-toolbar">
+                        <button class="btn btn-panel" data-action="panel-collapse" data-toggle="tooltip" data-offset="0,10" data-original-title="Collapse"></button>
+                        <button class="btn btn-panel" data-action="panel-fullscreen" data-toggle="tooltip" data-offset="0,10" data-original-title="Fullscreen"></button>
+                        <button class="btn btn-panel" data-action="panel-close" data-toggle="tooltip" data-offset="0,10" data-original-title="Close"></button>
+                    </div>
+                </div>
+                <div class="panel-container show">
+                    <div class="panel-content">
+                        <div class="frame-wrap w-100">
+                            <div class="accordion" id="js_demo_accordion-4">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <a href="javascript:void(0);" class="card-title" data-toggle="collapse" data-target="#js_demo_accordion-4a" aria-expanded="true">
+                                           User information
+                                            <span class="ml-auto">
+                                                <span class="collapsed-reveal">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-minus-circle text-danger fs-xl"></i>
+                                                </span>
+                                                <span class="collapsed-hidden">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-plus-circle text-success fs-xl"></i>
+                                                </span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                    <div id="js_demo_accordion-4a" class="collapse show" data-parent="#js_demo_accordion-4">
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col-sm-4 d-flex">
+                                                    <div class="table-responsive">
+                                                        <table class="table table-clean table-sm">
+                                                            <tbody>
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        UserName :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.UserName
+                                                                    </td>
+                                                                   
+                                                                </tr>
+
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Birthdate : 
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.BirthDate.ToString("dd-MM-yyyy")
+                                                                    </td>
+                                                                   
+                                                                </tr>
+
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        First Name :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.FirstName
+                                                                    </td>
+                                                                </tr>
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Last Name :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.LastName
+                                                                    </td>
+                                                                </tr>
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Create DT : 
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.CrateDateTime.ToString("dd-MM-yyyy HH:mm")
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-4 ml-sm-auto">
+                                                    <div class="table-responsive">
+                                                        <table class="table table-sm table-clean ">
+                                                            <tbody>
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Mobile Number  :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.PhoneNumber
+                                                                    </td>
+                                                                   
+
+                                                                </tr>
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Mobile Number Confirm :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.PhoneNumberConfirmed
+                                                                    </td>
+                                                                   
+                                                                </tr>
+
+                                                                <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Gender :
+                                                                    </td>
+                                                                    <td>
+                                                                        @(Model.Gender == 0 ? "Male" : "Female")
+                                                                    </td>
+                                                                </tr>
+                                                            <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                        Id Or Passport :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.IdOrPassport
+                                                                    </td>
+                                                                    
+                                                                </tr>
+                                                            <tr style="border-bottom: ridge;">
+                                                                    <td>
+                                                                       Email :
+                                                                    </td>
+                                                                    <td>
+                                                                        @Model.Email
+                                                                    </td>
+
+                                                                </tr>
+
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+
+                                            <div class="col-sm-4 ml-sm-auto">
+                                                <div class="table-responsive">
+                                                    <table class="table table-sm table-clean ">
+                                                        <tbody>
+                                                            <tr style="border-bottom: ridge;">
+                                                                <td>
+                                                                    Country Code :
+                                                                </td>
+                                                                <td>
+                                                                    @Model.Country.CountryCode
+                                                                </td>
+                                                             
+                                                            </tr>
+                                                           
+                                                            <tr style="border-bottom: ridge;">
+                                                                <td>
+                                                                    Country :
+                                                                </td>
+                                                                <td>
+                                                                    @Model.Country.CountryEnName
+
+                                                                </td>
+                                                               
+                                                            </tr>
+                                                          
+                                                            <tr style="border-bottom: ridge;">
+                                                                 <td>
+                                                                   Nationality :
+                                                                </td>
+                                                                <td>
+                                                                    @Model.Country.CountryEnNationality
+
+                                                                </td>
+                                                            </tr>
+                                                            <tr style="border-bottom: ridge;">
+                                                                <td>
+                                                                    Status :
+                                                                </td>
+                                                                <td>
+                                                                        @if (Model.Status.Contains("Deleted"))
+                                                                        {
+                                                                        <span class="text-danger">@Model.Status</span>
+
+                                                                        }
+                                                                        else
+                                                                        {
+                                                                        <span class="text-secondary"> @Model.Status</span>
+                                                                        }
+
+                                                                </td>
+                                                            </tr>
+
+
+
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <div class="card-header">
+                                        <a href="javascript:void(0);" class="card-title collapsed" data-toggle="collapse" data-target="#js_demo_accordion-4b" aria-expanded="false">
+                                          Family
+                                            <span class="ml-auto">
+                                                <span class="collapsed-reveal">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-minus-circle text-danger fs-xl"></i>
+                                                </span>
+                                                <span class="collapsed-hidden">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-plus-circle text-success fs-xl"></i>
+                                                </span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                    <div id="js_demo_accordion-4b" class="collapse" data-parent="#js_demo_accordion-4">
+                                        <div class="card-body">
+                                        <div class="panel-container show">
+                                            <div class="panel-content">
+                                          
+                                                <div class="frame-wrap">
+                                                    <table class="table m-0">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>#</th>
+                                                                <th>Name</th>
+                                                                <th>BirthDate</th>
+                                                                <th></th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            @foreach (var item in Model.Family)
+                                                            {
+                                                                counter++;
+                                                                <tr>
+                                                                    <th scope="row"> @counter</th>
+                                                                    <td>@item.Name</td>
+                                                                    <td>@item.BirthDate.ToString("dd-MM-yyyy")</td>
+                                                                    <td></td>
+                                                                </tr>
+                                                            }
+                                                            @{
+                                                                counter = 0;
+                                                            }
+                                                            
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                               <div class="card">
+                                    <div class="card-header">
+                                        <a href="javascript:void(0);" class="card-title collapsed" data-toggle="collapse" data-target="#js_demo_accordion-4c" aria-expanded="false">
+                                        Visits
+                                            <span class="ml-auto">
+                                                <span class="collapsed-reveal">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-minus-circle text-danger fs-xl"></i>
+                                                </span>
+                                                <span class="collapsed-hidden">
+                                                    <i class="@(Settings.Theme.IconPrefix) fa-plus-circle text-success fs-xl"></i>
+                                                </span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                    <div id="js_demo_accordion-4c" class="collapse" data-parent="#js_demo_accordion-4">
+                                        <div class="card-body">
+                                        <div class="row">
+                                            <div class="col-xl-12">
+                                                <div id="panel-1" class="panel">
+                                                    <div class="panel-hdr">
+                                                        <h2>
+                                                            Visits <span class="fw-300"><i>Table</i></span>
+                                                        </h2>
+                                                        <div class="panel-toolbar">
+                                                            <button class="btn btn-panel" data-action="panel-collapse" data-toggle="tooltip" data-offset="0,10" data-original-title="Collapse"></button>
+                                                            <button class="btn btn-panel" data-action="panel-fullscreen" data-toggle="tooltip" data-offset="0,10" data-original-title="Fullscreen"></button>
+                                                            <button class="btn btn-panel" data-action="panel-close" data-toggle="tooltip" data-offset="0,10" data-original-title="Close"></button>
+                                                        </div>
+                                                    </div>
+                                                    <div class="panel-container show">
+                                                        <div class="panel-content">
+
+                                                            <table id="dt-basic-example" class="table table-bordered table-hover table-striped w-100">
+                                                                <thead class="bg-primary-600">
+                                                                    <tr>
+                                                                        <th>Package</th>
+                                                                        <td>Datetime</td>
+                                                                        <th>Price</th>
+                                                                        <td>Payment</td>
+                                                                        <th>Patient</th>
+                                                                        <th>Status</th>
+                                                                        <th>Username</th>
+                                                                        <th></th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+
+
+                                                                    @foreach (var item in Model.Visits)
+                                                                    {
+                                                                        <tr>
+                                                                            <td>
+                                                                                <a asp-controller="Package" asp-action="View" asp-route-PackageId="@item.PackageId" title="View">  @item.PackageName</a>
+                                                                            </td>
+                                                                            <td>@item.VisitDT.ToString("dd-MM-yyyy HH:mm tt")</td>
+                                                                            <td>@item.Price</td>
+                                                                            <td>@item.payment</td>
+                                                                            <td>@item.UserFamilyName</td>
+                                                                            <td>@item.Status</td>
+                                                                            <td>
+                                                                                <a asp-controller="UserMobile" asp-action="View" asp-route-Id="@item.ApplicationUserId" style="margin: 10px;">@item.ApplicationUserName</a>
+                                                                            </td>
+                                                                            <td>
+                                                                                <a asp-controller="Visits" asp-action="View" asp-route-VisitDetailsId="@item.VisitDetailsId" title="View" style="margin: 10px;"><i class="fal fa-eye color-warning-700"></i></a>
+                                                                            </td>
+
+                                                                        </tr>
+
+                                                                    }
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @section ScriptsBlock {
+    <script src="~/js/datagrid/datatables/datatables.bundle.js"></script>
+    <script src="~/js/datagrid/datatables/datatables.export.js"></script>
+        <script>
+              $(document).ready(function () {
+
+                // initialize datatable
+                $('#dt-basic-example').dataTable({
+                    responsive: true,
+                    lengthChange: false,
+                    dom:
+                        /*	--- Layout Structure
+                            --- Options
+                            l	-	length changing input control
+                            f	-	filtering input
+                            t	-	The table!
+                            i	-	Table information summary
+                            p	-	pagination control
+                            r	-	processing display element
+                            B	-	buttons
+                            R	-	ColReorder
+                            S	-	Select
+                            --- Markup
+                            < and >				- div element
+                            <"class" and >		- div with a class
+                            <"#id" and >		- div with an ID
+                            <"#id.class" and >	- div with an ID and a class
+                            --- Further reading
+                            https://datatables.net/reference/option/dom
+                            --------------------------------------
+                         */
+                        "<'row mb-3'<'col-sm-12 col-md-6 d-flex align-items-center justify-content-start'f><'col-sm-12 col-md-6 d-flex align-items-center justify-content-end'lB>>" +
+                        "<'row'<'col-sm-12'tr>>" +
+                        "<'row'<'col-sm-12 col-md-5'i><'col-sm-12 col-md-7'p>>",
+                    buttons: [
+                        /*{
+                            extend:    'colvis',
+                            text:      'Column Visibility',
+                            titleAttr: 'Col visibility',
+                            className: 'mr-sm-3'
+                        },*/
+                        {
+                            extend: 'pdfHtml5',
+                            text: 'PDF',
+                            titleAttr: 'Generate PDF',
+                            className: 'btn-outline-danger btn-sm mr-1'
+                        },
+                        {
+                            extend: 'excelHtml5',
+                            text: 'Excel',
+                            titleAttr: 'Generate Excel',
+                            className: 'btn-outline-success btn-sm mr-1'
+                        },
+                        {
+                            extend: 'csvHtml5',
+                            text: 'CSV',
+                            titleAttr: 'Generate CSV',
+                            className: 'btn-outline-primary btn-sm mr-1'
+                        },
+                        {
+                            extend: 'copyHtml5',
+                            text: 'Copy',
+                            titleAttr: 'Copy to clipboard',
+                            className: 'btn-outline-primary btn-sm mr-1'
+                        },
+                        {
+                            extend: 'print',
+                            text: 'Print',
+                            titleAttr: 'Print Table',
+                            className: 'btn-outline-primary btn-sm'
+                        }
+                    ]
+                });
+        });
+        </script>
+         
+}
+

@@ -1,0 +1,143 @@
+{
+  "version": "4.5",
+  "lists": [
+    {
+      "title": "Services",
+      "icon": "fal fa-briefcase-medical",
+      "roles": [ "Permissions.Services.Manage" ],
+      "items": [
+        {
+          "title": "Index",
+          "showOnSeed": false,
+          "href": "Services_Index.html",
+          "roles": []
+        },
+        {
+          "title": "Create",
+          "showOnSeed": false,
+          "href": "Services_Create.html",
+          "roles": []
+        }
+
+      ]
+    },
+    {
+      "title": "Filters",
+      "icon": "fal fa-chart-pie",
+      "roles": [ "Permissions.Filters.Manage" ],
+      "items": [
+        {
+          "title": "Index",
+          "showOnSeed": false,
+          "href": "Category_Index.html",
+          "roles": []
+        },
+        {
+          "title": "Create",
+          "showOnSeed": false,
+          "href": "Category_Create.html",
+          "roles": []
+        }
+
+      ]
+    },
+    {
+      "title": "Packages",
+      "icon": "fal fa-table",
+      "roles": [ "Permissions.Packages.Manage" ],
+      "items": [
+        {
+          "title": "Index",
+          "showOnSeed": false,
+          "href": "Package_Index.html",
+          "roles": []
+        },
+        {
+          "title": "Create",
+          "showOnSeed": false,
+          "href": "Package_Create.html",
+          "roles": []
+        }
+
+      ]
+    },
+
+    {
+      "title": "Mobile Users",
+      "icon": "fal fa-users",
+      "roles": [ "Permissions.UsersMobile.Manage" ],
+      "items": [
+        {
+          "title": "Index",
+          "showOnSeed": false,
+          "href": "UserMobile_Index.html",
+          "roles": []
+        }
+
+
+      ]
+    },
+    {
+      "title": "Start Pages",
+      "icon": "fal fa-table",
+      "roles": [ "Permissions.StartPages.Manage" ],
+      "items": [
+        {
+          "title": "Index",
+          "showOnSeed": false,
+          "href": "StartPages_Index.html",
+          "roles": []
+        },
+        {
+          "title": "Create",
+          "showOnSeed": false,
+          "href": "StartPages_Create.html",
+          "roles": []
+        }
+
+      ]
+    },
+    {
+      "title": "Visits",
+      "icon": "fal fa-table",
+      "roles": [ "Permissions.Visits.Manage" ],
+      "items": [
+        {
+          "title": "Normal",
+          "showOnSeed": false,
+          "href": "Visits_Normal.html",
+          "roles": []
+        },
+        {
+          "title": "Virtual",
+          "showOnSeed": false,
+          "href": "Visits_Virtual.html",
+          "roles": []
+        }
+         
+      ]
+    },
+    {
+      "title": "Authorization",
+      "icon": "fal fa-shield-alt",
+      "roles": [ "Permissions.Users.View", "Permissions.Roles.View" ],
+      "items": [
+        {
+          "title": "Manage Users",
+          "showOnSeed": false,
+          "href": "Administration_ListUsers.html",
+          "roles": [ "Permissions.Users.View" ]
+        },
+        {
+          "title": "Roles & Permissions",
+          "showOnSeed": false,
+          "href": "Administration_ListRoles.html",
+          "roles": [ "Permissions.Roles.View" ]
+        }
+
+      ]
+    }
+
+  ]
+}
+

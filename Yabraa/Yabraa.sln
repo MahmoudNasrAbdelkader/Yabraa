@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yabraa", "Yabraa\Yabraa.csproj", "{6C0F4DA2-D6EC-4318-8966-619A7528AEC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailService", "EmailService\EmailService.csproj", "{FED0EC2D-7DB3-436B-A30A-E7DDAD900072}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YabraaEF", "YabraaEF\YabraaEF.csproj", "{0AE072BB-B00D-4630-817C-7B07A57A4A8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartAdmin.WebUI", "Admin\src\SmartAdmin.WebUI\SmartAdmin.WebUI.csproj", "{D4A4008C-602A-463A-8694-650A72037977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C0F4DA2-D6EC-4318-8966-619A7528AEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0F4DA2-D6EC-4318-8966-619A7528AEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0F4DA2-D6EC-4318-8966-619A7528AEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0F4DA2-D6EC-4318-8966-619A7528AEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED0EC2D-7DB3-436B-A30A-E7DDAD900072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED0EC2D-7DB3-436B-A30A-E7DDAD900072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED0EC2D-7DB3-436B-A30A-E7DDAD900072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED0EC2D-7DB3-436B-A30A-E7DDAD900072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE072BB-B00D-4630-817C-7B07A57A4A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE072BB-B00D-4630-817C-7B07A57A4A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE072BB-B00D-4630-817C-7B07A57A4A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE072BB-B00D-4630-817C-7B07A57A4A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A4008C-602A-463A-8694-650A72037977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A4008C-602A-463A-8694-650A72037977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A4008C-602A-463A-8694-650A72037977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A4008C-602A-463A-8694-650A72037977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C65A1E4-F1D0-475C-8FE4-69FFB75228BA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,165 @@
+﻿@model SmartNavigation
+@using System.Security.Claims
+@using SmartAdmin.WebUI.ViewModel;
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<YabraaEF.Models.ApplicationUser> SignInManager
+@inject IAuthorizationService AuthorizationService
+@{
+    var pageName = ViewData["PageName"]?.ToString().ToLower();
+    bool flagRoleTitle = false;
+    bool flagRoleItem = false;
+}
+
+<ul id="js-nav-menu" class="nav-menu">
+    @foreach (var group in Model.Lists)
+    {
+        
+        if (group.Roles is null || group.Roles.Count() == 0 )
+        {
+            flagRoleTitle = true; 
+        }else{
+
+        foreach (var item in group.Roles)
+        {
+           
+            if (AuthorizationService.AuthorizeAsync(User, item).Result.Succeeded)
+            {
+              flagRoleTitle = true;
+            }
+           
+        }
+
+        }
+        @if (flagRoleTitle)
+            {
+                     @if (group.Items.Any())
+                            {
+                                var groups = group.Items.Select(x => x.Href.ToPage()).Where(x => !x.IsVoid()).ToList();
+
+                                group.Items.ForEach(item =>
+                                {
+                                    var result = item.Items?.Select(x => x.Href.ToPage()).Where(x => !x.IsVoid()).ToList();
+                                    if (result?.Any() == true)
+                                    {
+                                        groups = groups.Concat(result).ToList();
+                                    }
+                                });
+                                <li class="@(groups.Contains(pageName) ? "active open" : "")">
+                                    <a href="#" title="@group.Title" data-filter-tags="@group.Tags">
+                                        <i class="@group.Icon"></i>
+                                        <span class="nav-link-text" data-i18n="@group.I18n">@group.Text.AsRaw()</span>
+                                        @if (group.Span.HasValue())
+                                        {
+                                            <span class="@group.Span.Class">@group.Span.Text.AsRaw()</span>
+                                        }
+                                    </a>
+                                    <ul>
+                                        @{
+                                            foreach (var item in group.Items)
+                                            {
+                                                
+                                                var items = item.Items?.Select(x => x.Href.ToPage()).Where(x => !x.IsVoid()).ToList();
+
+                                                if (item.Disabled)
+                                                {
+                                                            <text>
+                                                                <li class="disabled">
+                                                            </text>
+                                                }
+                                                else
+                                                {
+                                                    if (items?.Any() == true)
+                                                    {
+                                                                <text>
+                                                                <li class="@(items.Contains(pageName) || item.IsRelatedTo(pageName) ? "active open" : "")">
+                                                                </text>
+                                                    }
+                                                    else
+                                                    {
+                                                                <text>
+                                                                <li class="@(pageName == item.Href.ToPage() ? "active" : "")">
+                                                                </text>
+                                                    }
+                                                }
+                                                 if (item.Roles is null || item.Roles.Count() == 0 )
+                                                    {
+                                                        flagRoleItem = true; 
+                                                    }else{
+
+                                                    foreach (var role in item.Roles)
+                                                    {
+                                                       <script>console.log("@item")</script>
+                                                         if (AuthorizationService.AuthorizeAsync(User, role).Result.Succeeded)
+                                                            {
+                                                              flagRoleItem = true;
+                                                            }
+                                                    }
+
+                                                    }
+                                                    if (flagRoleItem)
+                                {
+                                                                                   <text>
+                                                            <a href="@item.Route" title="@item.Title" data-filter-tags="@item.Tags"  >
+                                                                <span class="nav-link-text" data-i18n="@item.I18n">@item.Text.AsRaw()</span>
+                                                                @if (item.Span.HasValue())
+                                                                  {
+                                                                    <span class="@item.Span.Class">@item.Span.Text.AsRaw()</span>
+                                                                 }
+                                                            </a>
+                                    </text>
+                                    flagRoleItem = false;
+
+                                }
+                                                if (item.Items?.Any() == true)
+                                                {
+                                                            <text>
+                                                                <ul>
+                                                                    @foreach (var subItem in item.Items)
+                                                            {
+                                                                if (subItem.Disabled)
+                                                                {
+                                                                            <text>
+                                                                            <li class="disabled">
+                                                                            </text>
+                                                                }
+                                                                else
+                                                                {
+                                                                            <text>
+                                                                            <li class="@(pageName == subItem.Href.ToPage() ? "active" : "")">
+                                                                            </text>
+                                                                }
+                                                                        <a href="@subItem.Route" title="@subItem.Title" data-filter-tags="@subItem.Tags" >
+                                                                            <span class="nav-link-text" data-i18n="@subItem.I18n">@subItem.Text.AsRaw()</span>
+                                                                        </a>
+                                                                    @:</li>
+                                                            }
+                                                                </ul>
+                                                            </text>
+                                                }
+                                                        @:</li>
+                                            }
+                                        }
+                                    </ul>
+                                </li>
+                            }
+                            else
+                            {
+                                if (group.Type == ItemType.Category)
+                                {
+                                    <li class="nav-title">@group.Title</li>
+                                }
+                                else
+                                {
+                                    <li class="@(pageName == group.Href.ToPage() ? "active" : "")">
+                                        <a href="@group.Route" title="@group.Title" data-filter-tags="@group.Tags">
+                                            <i class="@group.Icon"></i>
+                                            <span class="nav-link-text" data-i18n="@group.I18n">@group.Title.AsRaw()</span>
+                                        </a>
+                                    </li>
+                                }
+                            }
+            }
+       flagRoleTitle = false;
+    }
+</ul>

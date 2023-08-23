@@ -1,0 +1,230 @@
+﻿@using SmartAdmin.WebUI.ViewModel
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Identity
+@*@model IEnumerable<IdentityRole>*@
+@model SmartAdmin.WebUI.ViewModel.AccountViewModels.PaginatedList<IdentityRole>
+@inject IAuthorizationService AuthorizationService
+@{  
+   
+    ViewData["Title"] = "Roles";
+    ViewData["PageName"] = "Administration_ListRoles";
+    int counter = 1;
+}
+
+@section HeadBlock{
+   @* <link rel="stylesheet" type="text/css" href="~/src/plugins/datatables/css/responsive.bootstrap4.min.css">
+    <link rel="stylesheet" type="text/css" href="~/src/plugins/datatables/css/dataTables.bootstrap4.min.css">
+    <style>
+        #DataTables_Table_0_filter,#DataTables_Table_0_wrapper > div.dt-buttons.btn-group.flex-wrap{
+                display: inline;
+                    float: right;
+        margin: 10px;
+        }
+        #DataTables_Table_0_wrapper > div.dt-buttons.btn-group.flex-wrap{
+                display: inline;
+                    float: left;
+        margin: 10px;
+        }
+    </style>*@
+}
+
+    <div>
+        <div class="panel-hdr">
+            <h4>Roles</h4>
+
+            <div class="panel-toolbar" style="margin: 0px 35px;">
+            @if (AuthorizationService.AuthorizeAsync(User, Permissions.Roles.Create).Result.Succeeded)
+            {
+                <a class="btn btn-primary" asp-action="CreateRole" asp-controller="Administration">Add new role</a>
+            }
+        </div>
+    </div>
+       @*     <div class="row">
+                <div class="col-md-6 col-sm-12">
+                    <div class="title">
+                        <h4>Roles</h4>
+                    </div>
+                    
+                </div>
+                <div class="col-md-6 col-sm-12 text-right">
+                    <div class="dropdown">
+
+               
+                    @if (AuthorizationService.AuthorizeAsync(User, Permissions.Roles.Create).Result.Succeeded)
+                    {
+                        <a class="btn btn-primary" asp-action="CreateRole" asp-controller="Administration">Add new role</a>
+                    }
+
+                </div>
+                </div>
+       
+          </div>*@
+
+</div>
+
+
+
+
+
+
+@if (Model.Any())
+{
+
+    <div class="card-box mb-30">
+
+        <div class="pb-20">
+            <table class="table hover multiple-select-row data-table-export nowrap table-striped">
+                <thead style="background: #0b132b;color: #fff;">
+                    <tr>
+                        <th class="table-plus datatable-nosort">#</th>
+                        <th>Role</th>
+                        @if (AuthorizationService.AuthorizeAsync(User, Permissions.Roles.ManagePermissions).Result.Succeeded)
+                        {
+                            <th>
+                                Manage  Permissions
+                            </th>
+                        }
+                        @if (AuthorizationService.AuthorizeAsync(User, Permissions.Roles.Edit).Result.Succeeded)
+                        {
+                            <th>
+                                Edit
+                            </th>
+                        }
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var role in Model)
+                    {
+
+                        <tr>
+                            <td class="table-plus">
+                                @(counter++)
+                            </td>
+                            <td>
+                                @role.Name
+                            </td>
+                            @if (AuthorizationService.AuthorizeAsync(User, Permissions.Roles.ManagePermissions).Result.Succeeded)
+                            {
+                                <td>
+                                    <a class="btn btn-primary" asp-action="ManagePermissions" asp-route-roleId="@role.Id">Manage Permissions</a>
+                                </td>
+                            }
+                            @if (AuthorizationService.AuthorizeAsync(User, Permissions.Roles.Edit).Result.Succeeded)
+                            {
+                                <td>
+                                    <a asp-controller="Administration" asp-action="EditRole" asp-route-id="@role.Id" class="btn btn-primary">Edit</a>
+                                </td>
+                            }
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+  
+
+   @* var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";*@
+
+
+@*    <div class="col-sm-8" style="overflow-x:auto">
+        <a asp-action="ListRoles"
+       asp-route-pageNumber="@(Model.PageIndex - 1)"
+       class="btn btn-primary @prevDisabled">
+            Previous
+        </a>
+        @{
+            int pagenumbers = (ViewBag.currentpage + 4 <= ViewBag.pages) ? ViewBag.currentpage + 4 : ViewBag.currentpage + 3;
+            if (pagenumbers > ViewBag.pages)
+            {
+                pagenumbers = ViewBag.currentpage + 2;
+            }
+
+            if (pagenumbers > ViewBag.pages)
+            {
+                pagenumbers = ViewBag.currentpage + 1;
+            }
+            if (pagenumbers > ViewBag.pages)
+            {
+                pagenumbers = ViewBag.currentpage;
+            }
+
+            int start = (ViewBag.currentpage - 2 > 0) ? ViewBag.currentpage - 2 : ViewBag.currentpage;
+        }
+        @for (int i = start; i <= pagenumbers; i++)
+        {
+            if (i == ViewBag.currentpage)
+            {
+                <a asp-action="ListRoles"
+       asp-route-pageNumber="@i"
+       class="btn btn-primary">
+                    @i
+                </a>
+            }
+            else
+            {
+                <a asp-action="ListRoles"
+       asp-route-pageNumber="@i"
+       class="btn btn-primary">
+                    @i
+                </a>
+            }
+        }
+        <a asp-action="ListRoles"
+       asp-route-pageNumber="@(Model.PageIndex + 1)"
+       class="btn btn-primary @nextDisabled">
+            Next
+        </a>
+    </div>*@
+}
+else
+{
+    <div class="card">
+        <div class="card-header">
+            No roles created yet
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">
+                Use the button below to create a role
+            </h5>
+            @if (AuthorizationService.AuthorizeAsync(User, Permissions.Roles.Create).Result.Succeeded)
+            {
+                <a class="btn btn-primary" style="width:auto"
+           asp-controller="administration" asp-action="CreateRole">
+                    Create Role
+                </a>
+            }
+        </div>
+    </div>
+}
+
+@section ScriptsBlock {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+
+    <script>
+
+        //document.getElementById("userssetting").click();
+        //ToggleColorInDashboard("manageroles");
+
+    </script>
+@*    <script src="~/src/plugins/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="~/src/plugins/datatables/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/src/plugins/datatables/js/dataTables.responsive.min.js"></script>
+    <script src="~/src/plugins/datatables/js/responsive.bootstrap4.min.js"></script>
+    <!-- buttons for Export datatable -->
+    <script src="~/src/plugins/datatables/js/dataTables.buttons.min.js"></script>
+    <script src="~/src/plugins/datatables/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/src/plugins/datatables/js/buttons.print.min.js"></script>
+    <script src="~/src/plugins/datatables/js/buttons.html5.min.js"></script>
+    <script src="~/src/plugins/datatables/js/buttons.flash.min.js"></script>
+    <script src="~/src/plugins/datatables/js/pdfmake.min.js"></script>
+    <script src="~/src/plugins/datatables/js/vfs_fonts.js"></script>
+    <!-- Datatable Setting js -->
+    <script src="~/vendors/scripts/datatable-setting.js"></script>*@
+
+}

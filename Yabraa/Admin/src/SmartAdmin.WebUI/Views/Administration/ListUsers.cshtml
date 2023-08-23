@@ -1,0 +1,217 @@
+﻿@using SmartAdmin.WebUI.ViewModel
+@using Microsoft.AspNetCore.Authorization
+@*@model IEnumerable<ApplicationUser>*@
+
+@*@model PaginatedList<Task<Users_in_Role_ViewModel>>*@
+@model IEnumerable<Task<SmartAdmin.WebUI.ViewModel.Users_in_Role_ViewModel>>
+@inject IAuthorizationService AuthorizationService
+@{
+    ViewData["Title"] = "Users";
+    ViewData["PageName"] = "Administration_ListUsers";
+    int counter = 1;
+}
+@section HeadBlock{
+    <link rel="stylesheet" media="screen, print" href="~/css/fa-brands.css">
+@*    <style>
+        #DataTables_Table_0_filter,#DataTables_Table_0_wrapper > div.dt-buttons.btn-group.flex-wrap{
+                display: inline;
+                    float: right;
+        margin: 10px;
+        }
+        #DataTables_Table_0_wrapper > div.dt-buttons.btn-group.flex-wrap{
+                display: inline;
+                    float: left;
+        margin: 10px;
+        }
+    </style>*@
+}
+
+
+   <div class="row">
+        <div class="col-xl-12">
+            <div id="panel-1" class="panel">
+                <div class="panel-hdr">
+                    <h2>
+                        Users <span class="fw-300"><i></i></span>
+                    </h2>
+                    
+                    <div class="panel-toolbar">
+                    @if (AuthorizationService.AuthorizeAsync(User, Permissions.Users.Create).Result.Succeeded)
+                    {
+                        <a asp-action="Register" style="margin: 0px 13px;" asp-controller="Account"
+                       class="btn btn-primary">
+                            Add New User
+                        </a>
+                    }
+                    @if (AuthorizationService.AuthorizeAsync(User, Permissions.Roles.View).Result.Succeeded)
+                    {
+                        <a asp-action="ListRoles" style="margin: 0px 13px;" asp-controller="Administration"
+                       class="btn btn-primary">
+                            Manage Roles & Permissions
+                        </a>
+                    }
+                        <button class="btn btn-panel" data-action="panel-collapse" data-toggle="tooltip" data-offset="0,10" data-original-title="Collapse"></button>
+                        <button class="btn btn-panel" data-action="panel-fullscreen" data-toggle="tooltip" data-offset="0,10" data-original-title="Fullscreen"></button>
+                        <button class="btn btn-panel" data-action="panel-close" data-toggle="tooltip" data-offset="0,10" data-original-title="Close"></button>
+                    </div>
+                </div>
+                <div class="panel-container show">
+                    <div class="panel-content">
+
+                    <table class="table hover multiple-select-row data-table-export nowrap table-striped">
+                        <thead style="background: #0b132b;color: #fff;">
+                            <tr>
+                                <th class="table-plus datatable-nosort">#</th>
+                                <th>UserName</th>
+                                <th>FirstName</th>
+                                <th>Email Year</th>
+                                <th> Role</th>
+                                @if (AuthorizationService.AuthorizeAsync(User, Permissions.Users.Edit).Result.Succeeded)
+                                {
+                                    <th>
+                                        Edit
+                                    </th>
+                                }
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var user in Model)
+                            {
+
+                                <tr>
+                                    <td class="table-plus">
+                                        @(counter++)
+                                    </td>
+                                    <td>
+                                        @user.Result.Username
+                                    </td>
+                                    <td>
+                                        @user.Result.FirstName
+                                    </td>
+
+                                    <td>
+                                        @user.Result.Email
+                                    </td>
+                                    <td>
+                                        @user.Result.Role
+                                    </td>
+                                    @if (AuthorizationService.AuthorizeAsync(User, Permissions.Users.Edit).Result.Succeeded)
+                                    {
+                                        <td>
+                                            <a asp-action="EditUser" asp-controller="Administration"
+                                       asp-route-id="@user.Result.UserId" class="btn btn-primary">Edit</a>
+                                        </td>
+                                    }
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @* end panel  *@
+    </div>
+
+@*<div>
+		<div class="page-header">
+			<div class="row">
+				<div class="col-md-6 col-sm-12">
+					<div class="title">
+                    <h4>Users</h4>
+					</div>
+				
+				</div>
+				<div class="col-md-6 col-sm-12 text-right">
+					<div class="dropdown">
+					
+                    @if (AuthorizationService.AuthorizeAsync(User, Permissions.Users.Create).Result.Succeeded)
+                    {
+                        <a asp-action="Register" asp-controller="Account"
+                       class="btn btn-primary" >
+                            Add New User
+                        </a>
+                    }
+                    @if (AuthorizationService.AuthorizeAsync(User, Permissions.Roles.View).Result.Succeeded)
+                    {
+                        <a asp-action="ListRoles" asp-controller="Administration"
+                       class="btn btn-primary" >
+                            Manage Roles & Permissions
+                        </a>
+                    }
+						
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>*@
+
+
+<div class="card-box mb-30">
+
+    <div class="pb-20">
+    </div>
+</div>
+
+
+@section ScriptsBlock {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            
+            // Setup - add a text input to each footer cell
+            $('#example tfoot th').each(function () {
+                var title = $(this).text();
+                $(this).html('<input type="text" style="text-align:center" placeholder="Search ' + title + '" />');
+            });
+
+            // DataTable
+            var table = $('#example').DataTable({
+                initComplete: function () {
+                    var r = $('#example tfoot tr');
+                    r.find('th').each(function () {
+                        $(this).css('padding', 8);
+                    });
+                    $('#example thead').append(r);
+                    $('#search_0').css('text-align', 'center');
+                    // Apply the search
+                    this.api().columns().every(function () {
+                        var that = this;
+
+                        $('input', this.footer()).on('keyup change clear', function () {
+                            if (that.search() !== this.value) {
+                                that
+                                    .search(this.value)
+                                    .draw();
+                            }
+                        });
+                    });
+
+                }
+            });
+
+
+        });
+  
+    </script>
+
+    <script type="text/javascript">
+        var example_gridsize = $("#example-gridsize");
+        $("#gridrange").on("input change", function () {
+            //do something
+            example_gridsize.attr("placeholder", ".col-" + $(this).val());
+            example_gridsize.parent().removeClass().addClass("col-" + $(this).val())
+            console.log("col-" + $(this).val());
+        });
+     </script>
+}
+

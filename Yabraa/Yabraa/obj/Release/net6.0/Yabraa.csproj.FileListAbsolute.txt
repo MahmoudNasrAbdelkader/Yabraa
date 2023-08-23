@@ -1,0 +1,1142 @@
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\appsettings.Development.json
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\appsettings.json
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.exe
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.deps.json
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.runtimeconfig.json
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.pdb
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Humanizer.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\MailKit.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\MessagePack.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\MessagePack.Annotations.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Build.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Build.Framework.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.DiaSymReader.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Identity.Client.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.NET.StringTools.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.OpenApi.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\MimeKit.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NETCore.MailKit.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Newtonsoft.Json.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Common.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Configuration.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.DependencyResolver.Core.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Frameworks.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.LibraryModel.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Packaging.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.ProjectModel.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Protocol.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Versioning.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\BouncyCastle.Crypto.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.AttributedModel.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Convention.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Hosting.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Runtime.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.TypedParts.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Drawing.Common.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Runtime.Caching.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Security.Permissions.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Windows.Extensions.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Twilio.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\EmailService.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\YabraaEF.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\EmailService.pdb
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\YabraaEF.pdb
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.AssemblyReference.cache
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.GeneratedMSBuildEditorConfig.editorconfig
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.AssemblyInfoInputs.cache
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.AssemblyInfo.cs
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.CoreCompileInputs.cache
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.MvcApplicationPartsAssemblyInfo.cs
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.MvcApplicationPartsAssemblyInfo.cache
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets\msbuild.Yabraa.Microsoft.AspNetCore.StaticWebAssets.props
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets\msbuild.build.Yabraa.props
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Yabraa.props
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Yabraa.props
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets.pack.json
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets.build.json
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets.development.json
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\scopedcss\bundle\Yabraa.styles.css
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.CopyComplete
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\refint\Yabraa.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.pdb
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.genruntimeconfig.cache
+F:\P\backup\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\ref\Yabraa.dll
+F:\P\backup\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.staticwebassets.runtime.json
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\appsettings.Development.json
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\appsettings.json
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.staticwebassets.runtime.json
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.exe
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.deps.json
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.runtimeconfig.json
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.pdb
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Humanizer.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\MailKit.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\MessagePack.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\MessagePack.Annotations.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Build.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Build.Framework.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.DiaSymReader.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.NET.StringTools.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\MimeKit.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NETCore.MailKit.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Common.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Configuration.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.DependencyResolver.Core.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Frameworks.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.LibraryModel.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Packaging.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.ProjectModel.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Protocol.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Versioning.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\BouncyCastle.Crypto.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.AttributedModel.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Convention.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Hosting.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Runtime.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.TypedParts.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Security.Permissions.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\Twilio.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\EmailService.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\YabraaEF.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\EmailService.pdb
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\bin\Release\net6.0\YabraaEF.pdb
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.AssemblyReference.cache
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.AssemblyInfoInputs.cache
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.AssemblyInfo.cs
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.CoreCompileInputs.cache
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets.build.json
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets.development.json
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\scopedcss\bundle\Yabraa.styles.css
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.CopyComplete
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\refint\Yabraa.dll
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.pdb
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.genruntimeconfig.cache
+D:\New folder (2)\P\14-4-2023\Yabraa\Yabraa\obj\Release\net6.0\ref\Yabraa.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\appsettings.Development.json
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\appsettings.json
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.staticwebassets.runtime.json
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.exe
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.deps.json
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.runtimeconfig.json
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.pdb
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Humanizer.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\MailKit.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\MessagePack.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\MessagePack.Annotations.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Build.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Build.Framework.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.DiaSymReader.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Identity.Client.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.NET.StringTools.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.OpenApi.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\MimeKit.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\NETCore.MailKit.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Newtonsoft.Json.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Common.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Configuration.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.DependencyResolver.Core.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Frameworks.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.LibraryModel.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Packaging.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.ProjectModel.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Protocol.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Versioning.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\BouncyCastle.Crypto.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.AttributedModel.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Convention.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Hosting.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Runtime.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.TypedParts.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Drawing.Common.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Runtime.Caching.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Security.Permissions.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\System.Windows.Extensions.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\Twilio.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\EmailService.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\YabraaEF.dll
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\EmailService.pdb
+F:\P\Yabraa\Yabraa\bin\Release\net6.0\YabraaEF.pdb
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.AssemblyReference.cache
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.GeneratedMSBuildEditorConfig.editorconfig
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.AssemblyInfoInputs.cache
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.AssemblyInfo.cs
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.CoreCompileInputs.cache
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.MvcApplicationPartsAssemblyInfo.cs
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.MvcApplicationPartsAssemblyInfo.cache
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets\msbuild.Yabraa.Microsoft.AspNetCore.StaticWebAssets.props
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets\msbuild.build.Yabraa.props
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Yabraa.props
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Yabraa.props
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets.pack.json
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets.build.json
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets.development.json
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\scopedcss\bundle\Yabraa.styles.css
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.CopyComplete
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.dll
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\refint\Yabraa.dll
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.pdb
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.genruntimeconfig.cache
+F:\P\Yabraa\Yabraa\obj\Release\net6.0\ref\Yabraa.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\appsettings.Development.json
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\appsettings.json
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.staticwebassets.runtime.json
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.exe
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.deps.json
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.runtimeconfig.json
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Yabraa.pdb
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Humanizer.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\MailKit.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\MessagePack.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\MessagePack.Annotations.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Build.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Build.Framework.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.DiaSymReader.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.NET.StringTools.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\MimeKit.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\NETCore.MailKit.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Common.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Configuration.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.DependencyResolver.Core.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Frameworks.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.LibraryModel.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Packaging.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.ProjectModel.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Protocol.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\NuGet.Versioning.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\BouncyCastle.Crypto.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.AttributedModel.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Convention.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Hosting.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.Runtime.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Composition.TypedParts.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Security.Permissions.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\Twilio.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\EmailService.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\YabraaEF.dll
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\EmailService.pdb
+D:\New folder (2)\P\Yabraa\Yabraa\bin\Release\net6.0\YabraaEF.pdb
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.AssemblyReference.cache
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.AssemblyInfoInputs.cache
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.AssemblyInfo.cs
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.CoreCompileInputs.cache
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets.build.json
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\staticwebassets.development.json
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\scopedcss\bundle\Yabraa.styles.css
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.csproj.CopyComplete
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.dll
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\refint\Yabraa.dll
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.pdb
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\Yabraa.genruntimeconfig.cache
+D:\New folder (2)\P\Yabraa\Yabraa\obj\Release\net6.0\ref\Yabraa.dll

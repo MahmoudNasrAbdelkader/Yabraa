@@ -1,0 +1,231 @@
+﻿@model List<SmartAdmin.WebUI.ViewModel.PackageIndexViewModel>
+@{
+
+    ViewData["Title"] = "Package";
+    ViewData["PageName"] = "package_index";
+}
+@section HeadBlock {
+    <link rel="stylesheet" media="screen, print" href="~/css/datagrid/datatables/datatables.bundle.css">
+    <link rel="stylesheet" media="screen, print" href="~/css/fa-solid.css">
+    <link rel="stylesheet" media="screen, print" href="~/css/notifications/sweetalert2/sweetalert2.bundle.css">
+    <link rel="stylesheet" media="screen, print" href="~/css/theme-demo.css">
+}
+
+
+
+    <div class="row">
+        <div class="col-xl-12">
+            <div id="panel-1" class="panel">
+                <div class="panel-hdr">
+                    <h2>
+                        Packages <span class="fw-300"><i>Table</i></span>
+                    </h2>
+                    <div class="panel-toolbar">
+                        <button class="btn btn-panel" data-action="panel-collapse" data-toggle="tooltip" data-offset="0,10" data-original-title="Collapse"></button>
+                        <button class="btn btn-panel" data-action="panel-fullscreen" data-toggle="tooltip" data-offset="0,10" data-original-title="Fullscreen"></button>
+                        <button class="btn btn-panel" data-action="panel-close" data-toggle="tooltip" data-offset="0,10" data-original-title="Close"></button>
+                    </div>
+                </div>
+                <div class="panel-container show">
+                    <div class="panel-content">
+
+                        <table id="dt-basic-example" class="table table-bordered table-hover table-striped w-100">
+                            <thead class="bg-primary-600">
+                                <tr>
+                                    <th>Name (English)</th>
+                                    <td>Name (arabic)</td>
+                                    <th>Service</th>
+                                    <th>Type</th>
+                                    <td>Filter</td>
+
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.NameEN</td>
+                                    <td>@item.NameAR</td>
+                                    <td>@item.Service</td>
+                                    <td>@item.ServiceType</td>
+                                    <td>@item.Category</td>
+                                    <td>
+                                        <a asp-controller="Package" asp-action="View" asp-route-PackageId="@item.PackageId" title="View">  <i class="fal fa-eye"></i></a>
+                                        <a asp-controller="Package" asp-action="Edit" asp-route-PackageId="@item.PackageId" title="Edit" style="margin: 10px;"><i class="fal fa-edit color-warning-700"></i></a>
+                                        <a title="Delete" id="icon-delete" href="javascript:void(0);" onclick="deletePackage(@item.PackageId)"> <i class="fal fa-trash color-danger-900"></i></a>
+
+                                    </td>
+
+                                </tr>
+
+                            }
+                        </tbody>
+                        @* <tfoot>
+                        <tr>
+                        <th>Name</th>
+                        <th>Position</th>
+                        <th>Office</th>
+                        <th>Age</th>
+                        <th>Start date</th>
+                        <th>Salary</th>
+                        </tr>
+                        </tfoot>*@
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section ScriptsBlock {
+    <script src="~/js/datagrid/datatables/datatables.bundle.js"></script>
+    <script src="~/js/datagrid/datatables/datatables.export.js"></script>
+    <script src="~/js/notifications/sweetalert2/sweetalert2.bundle.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            // initialize datatable
+            $('#dt-basic-example').dataTable({
+                responsive: true,
+                lengthChange: true,
+                dom:
+                    /*	--- Layout Structure
+                        --- Options
+                        l	-	length changing input control
+                        f	-	filtering input
+                        t	-	The table!
+                        i	-	Table information summary
+                        p	-	pagination control
+                        r	-	processing display element
+                        B	-	buttons
+                        R	-	ColReorder
+                        S	-	Select
+                        --- Markup
+                        < and >				- div element
+                        <"class" and >		- div with a class
+                        <"#id" and >		- div with an ID
+                        <"#id.class" and >	- div with an ID and a class
+                        --- Further reading
+                        https://datatables.net/reference/option/dom
+                        --------------------------------------
+                     */
+                    "<'row mb-3'<'col-sm-12 col-md-6 d-flex align-items-center justify-content-start'f><'col-sm-12 col-md-6 d-flex align-items-center justify-content-end'lB>>" +
+                    "<'row'<'col-sm-12'tr>>" +
+                    "<'row'<'col-sm-12 col-md-5'i><'col-sm-12 col-md-7'p>>",
+                buttons: [
+                    /*{
+                        extend:    'colvis',
+                        text:      'Column Visibility',
+                        titleAttr: 'Col visibility',
+                        className: 'mr-sm-3'
+                    },*/
+                    {
+                        extend: 'pdfHtml5',
+                        text: 'PDF',
+                        titleAttr: 'Generate PDF',
+                        className: 'btn-outline-danger btn-sm mr-1'
+                    },
+                    {
+                        extend: 'excelHtml5',
+                        text: 'Excel',
+                        titleAttr: 'Generate Excel',
+                        className: 'btn-outline-success btn-sm mr-1'
+                    },
+                    {
+                        extend: 'csvHtml5',
+                        text: 'CSV',
+                        titleAttr: 'Generate CSV',
+                        className: 'btn-outline-primary btn-sm mr-1'
+                    },
+                    {
+                        extend: 'copyHtml5',
+                        text: 'Copy',
+                        titleAttr: 'Copy to clipboard',
+                        className: 'btn-outline-primary btn-sm mr-1'
+                    },
+                    {
+                        extend: 'print',
+                        text: 'Print',
+                        titleAttr: 'Print Table',
+                        className: 'btn-outline-primary btn-sm'
+                    }
+                ]
+            });
+        });
+
+
+
+        function deletePackage(id) {
+            var swalWithBootstrapButtons = Swal.mixin({
+                customClass: {
+                    confirmButton: "btn btn-primary",
+                    cancelButton: "btn btn-danger mr-2"
+                },
+                buttonsStyling: false
+            });
+            swalWithBootstrapButtons
+                .fire({
+                    title: "Are you sure?",
+                    text: "You won't be able to revert this!",
+                    type: "warning",
+                    showCancelButton: true,
+                    confirmButtonText: "Yes, delete it!",
+                    cancelButtonText: "No, cancel!",
+                    reverseButtons: true
+                })
+                .then(function (result) {
+                    if (result.value) {
+
+                        $.ajax({
+                            type: "Get",
+                            url: "/Package/Delete",
+                            data: { "PackageId": id },
+                            success: function (response) {
+                                if (response.status == 1) {
+                                    swalWithBootstrapButtons.fire(
+                                        "Deleted!",
+                                        "Your file has been deleted.",
+                                        "success"
+                                    );
+                                    location.reload();
+
+                                } else {
+                                    Swal.fire({
+                                        type: "error", title: "Oops...", text: "Something went wrong (" + response.message + ")!",
+                                        //footer: "<a href>Why do I have this issue?</a>"
+                                    });
+                                }
+
+                            },
+                            failure: function (response) {
+                                Swal.fire({
+                                    type: "error", title: "Oops...", text: "Something went wrong!",
+                                    //footer: "<a href>Why do I have this issue?</a>"
+                                });
+                            },
+                            error: function (response) {
+                                Swal.fire({
+                                    type: "error", title: "Oops...", text: "Something went wrong!",
+                                    //footer: "<a href>Why do I have this issue?</a>"
+                                });
+                            }
+                        });
+
+                    } else if (
+                        // Read more about handling dismissals
+                        result.dismiss === Swal.DismissReason.cancel
+                    ) {
+                        swalWithBootstrapButtons.fire(
+                            "Cancelled",
+                            "Your imaginary file is safe :)",
+                            "error"
+                        );
+                    }
+                });
+        }
+    </script>
+}
+
