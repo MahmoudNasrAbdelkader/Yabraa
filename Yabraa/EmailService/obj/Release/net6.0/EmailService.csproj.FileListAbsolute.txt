@@ -58,3 +58,15 @@ D:\New folder (2)\P\Yabraa\EmailService\obj\Release\net6.0\EmailService.dll
 D:\New folder (2)\P\Yabraa\EmailService\obj\Release\net6.0\refint\EmailService.dll
 D:\New folder (2)\P\Yabraa\EmailService\obj\Release\net6.0\EmailService.pdb
 D:\New folder (2)\P\Yabraa\EmailService\obj\Release\net6.0\ref\EmailService.dll
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\bin\Release\net6.0\EmailService.deps.json
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\bin\Release\net6.0\EmailService.dll
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\bin\Release\net6.0\EmailService.pdb
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\obj\Release\net6.0\EmailService.csproj.AssemblyReference.cache
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\obj\Release\net6.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\obj\Release\net6.0\EmailService.AssemblyInfoInputs.cache
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\obj\Release\net6.0\EmailService.AssemblyInfo.cs
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\obj\Release\net6.0\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\obj\Release\net6.0\EmailService.dll
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\obj\Release\net6.0\refint\EmailService.dll
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\obj\Release\net6.0\EmailService.pdb
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\EmailService\obj\Release\net6.0\ref\EmailService.dll

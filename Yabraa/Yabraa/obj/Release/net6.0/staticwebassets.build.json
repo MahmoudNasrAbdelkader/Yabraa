@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f/wswjz5suphmqS92i4dkol+W9/jmUeXnkr9mfko3XY=",
+  "Hash": "pq/unv8t27Bv8sEJAukZGl+gWgjXcFO1TphAZ/ykNzg=",
   "Source": "Yabraa",
   "BasePath": "_content/Yabraa",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Yabraa\\wwwroot",
       "Source": "Yabraa",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\gallery\\Home_Health_Companions_Bl.png",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\gallery\\Home_Health_Companions_Bl.png",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "gallery/Home_Health_Companions_Bl.png",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\gallery\\Home_Health_Companions_Bl.png"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\gallery\\images.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\gallery\\images.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "gallery/images.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\gallery\\images.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\gallery\\images_fgfg.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\gallery\\images_fgfg.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "gallery/images_fgfg.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\gallery\\images_fgfg.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\gallery\\imagesjnklj.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\gallery\\imagesjnklj.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "gallery/imagesjnklj.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\gallery\\imagesjnklj.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\gallery\\nurse-assessment-e1640928277978.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\gallery\\nurse-assessment-e1640928277978.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "gallery/nurse-assessment-e1640928277978.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\gallery\\nurse-assessment-e1640928277978.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\Home-Solutions.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\Home-Solutions.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "packagesImage/Home-Solutions.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\packagesImage\\Home-Solutions.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\image-asset.jpeg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\image-asset.jpeg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "packagesImage/image-asset.jpeg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\packagesImage\\image-asset.jpeg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\images.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\images.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "packagesImage/images.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\packagesImage\\images.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\imageshc.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\imageshc.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "packagesImage/imageshc.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\packagesImage\\imageshc.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\Lab.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\Lab.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "packagesImage/Lab.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\packagesImage\\Lab.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\preparing_for_lab_test.png",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\preparing_for_lab_test.png",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "packagesImage/preparing_for_lab_test.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\packagesImage\\preparing_for_lab_test.png"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\whoweare.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\packagesImage\\whoweare.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "packagesImage/whoweare.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\packagesImage\\whoweare.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$R9J8KEV.jpeg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$R9J8KEV.jpeg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$R9J8KEV.jpeg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$R9J8KEV.jpeg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$R9L342O.jfif",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$R9L342O.jfif",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$R9L342O.jfif",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$R9L342O.jfif"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RD9UJL8.png",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RD9UJL8.png",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$RD9UJL8.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$RD9UJL8.png"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RFCNQ26.png",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RFCNQ26.png",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$RFCNQ26.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$RFCNQ26.png"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RFYOUTQ.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RFYOUTQ.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$RFYOUTQ.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$RFYOUTQ.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RFZU7GF.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RFZU7GF.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$RFZU7GF.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$RFZU7GF.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RGZPGLT.png",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RGZPGLT.png",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$RGZPGLT.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$RGZPGLT.png"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RI2UXMH.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RI2UXMH.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$RI2UXMH.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$RI2UXMH.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RJLMDAC.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RJLMDAC.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$RJLMDAC.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$RJLMDAC.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RJRL2I8.jfif",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RJRL2I8.jfif",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$RJRL2I8.jfif",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$RJRL2I8.jfif"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RQ61WOA.jfif",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RQ61WOA.jfif",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$RQ61WOA.jfif",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$RQ61WOA.jfif"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RRRL21N.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\$RRRL21N.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/$RRRL21N.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\$RRRL21N.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\7-things-to-do.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\7-things-to-do.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/7-things-to-do.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\7-things-to-do.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\caregiver-resources.png",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\caregiver-resources.png",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/caregiver-resources.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\caregiver-resources.png"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\home-care-resources.png",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\home-care-resources.png",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/home-care-resources.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\home-care-resources.png"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\homecare-services-header-image.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\homecare-services-header-image.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/homecare-services-header-image.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\homecare-services-header-image.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\IMG-20191215-WA0003.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\IMG-20191215-WA0003.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/IMG-20191215-WA0003.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\IMG-20191215-WA0003.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\managing-parents-finances.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\managing-parents-finances.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/managing-parents-finances.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\managing-parents-finances.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\paying-for-home-care.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\servicesImages\\paying-for-home-care.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "servicesImages/paying-for-home-care.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\servicesImages\\paying-for-home-care.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\startPagesImages\\107144746-1667396730.jpeg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\startPagesImages\\107144746-1667396730.jpeg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "startPagesImages/107144746-1667396730.jpeg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\startPagesImages\\107144746-1667396730.jpeg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\startPagesImages\\guide_what_is_home_health_care.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\startPagesImages\\guide_what_is_home_health_care.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "startPagesImages/guide_what_is_home_health_care.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\startPagesImages\\guide_what_is_home_health_care.jpg"
     },
     {
-      "Identity": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\startPagesImages\\Home-Solutions_AdobeStock_238387697_4x3.jpg",
+      "Identity": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\startPagesImages\\Home-Solutions_AdobeStock_238387697_4x3.jpg",
       "SourceId": "Yabraa",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\wwwroot\\",
       "BasePath": "_content/Yabraa",
       "RelativePath": "startPagesImages/Home-Solutions_AdobeStock_238387697_4x3.jpg",
       "AssetKind": "All",

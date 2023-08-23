@@ -5799,23 +5799,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HUAWEI\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ALAMIIA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder (2)\\P\\Yabraa\\EmailService\\EmailService.csproj",
+      "projectUniqueName": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\EmailService\\EmailService.csproj",
       "projectName": "EmailService",
-      "projectPath": "D:\\New folder (2)\\P\\Yabraa\\EmailService\\EmailService.csproj",
-      "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder (2)\\P\\Yabraa\\EmailService\\obj\\",
+      "projectPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\EmailService\\EmailService.csproj",
+      "packagesPath": "C:\\Users\\ALAMIIA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\EmailService\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ALAMIIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5866,7 +5862,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

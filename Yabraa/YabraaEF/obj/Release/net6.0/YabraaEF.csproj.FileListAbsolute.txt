@@ -54,3 +54,17 @@ D:\New folder (2)\P\Yabraa\YabraaEF\obj\Release\net6.0\refint\YabraaEF.dll
 D:\New folder (2)\P\Yabraa\YabraaEF\obj\Release\net6.0\YabraaEF.pdb
 D:\New folder (2)\P\Yabraa\YabraaEF\obj\Release\net6.0\YabraaEF.genruntimeconfig.cache
 D:\New folder (2)\P\Yabraa\YabraaEF\obj\Release\net6.0\ref\YabraaEF.dll
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\bin\Release\net6.0\YabraaEF.deps.json
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\bin\Release\net6.0\YabraaEF.runtimeconfig.json
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\bin\Release\net6.0\YabraaEF.dll
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\bin\Release\net6.0\YabraaEF.pdb
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\obj\Release\net6.0\YabraaEF.csproj.AssemblyReference.cache
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\obj\Release\net6.0\YabraaEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\obj\Release\net6.0\YabraaEF.AssemblyInfoInputs.cache
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\obj\Release\net6.0\YabraaEF.AssemblyInfo.cs
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\obj\Release\net6.0\YabraaEF.csproj.CoreCompileInputs.cache
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\obj\Release\net6.0\YabraaEF.dll
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\obj\Release\net6.0\refint\YabraaEF.dll
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\obj\Release\net6.0\YabraaEF.pdb
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\obj\Release\net6.0\YabraaEF.genruntimeconfig.cache
+C:\Users\ALAMIIA\Documents\GitHub\Yabraa\Yabraa\YabraaEF\obj\Release\net6.0\ref\YabraaEF.dll

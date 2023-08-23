@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\Yabraa.csproj": {}
+    "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\Yabraa.csproj": {}
   },
   "projects": {
-    "D:\\New folder (2)\\P\\Yabraa\\EmailService\\EmailService.csproj": {
+    "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\EmailService\\EmailService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder (2)\\P\\Yabraa\\EmailService\\EmailService.csproj",
+        "projectUniqueName": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\EmailService\\EmailService.csproj",
         "projectName": "EmailService",
-        "projectPath": "D:\\New folder (2)\\P\\Yabraa\\EmailService\\EmailService.csproj",
-        "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder (2)\\P\\Yabraa\\EmailService\\obj\\",
+        "projectPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\EmailService\\EmailService.csproj",
+        "packagesPath": "C:\\Users\\ALAMIIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\EmailService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ALAMIIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,24 +65,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New folder (2)\\P\\Yabraa\\YabraaEF\\YabraaEF.csproj": {
+    "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\YabraaEF\\YabraaEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder (2)\\P\\Yabraa\\YabraaEF\\YabraaEF.csproj",
+        "projectUniqueName": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\YabraaEF\\YabraaEF.csproj",
         "projectName": "YabraaEF",
-        "projectPath": "D:\\New folder (2)\\P\\Yabraa\\YabraaEF\\YabraaEF.csproj",
-        "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder (2)\\P\\Yabraa\\YabraaEF\\obj\\",
+        "projectPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\YabraaEF\\YabraaEF.csproj",
+        "packagesPath": "C:\\Users\\ALAMIIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\YabraaEF\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ALAMIIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,24 +146,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\Yabraa.csproj": {
+    "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\Yabraa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\Yabraa.csproj",
+        "projectUniqueName": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\Yabraa.csproj",
         "projectName": "Yabraa",
-        "projectPath": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\Yabraa.csproj",
-        "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder (2)\\P\\Yabraa\\Yabraa\\obj\\",
+        "projectPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\Yabraa.csproj",
+        "packagesPath": "C:\\Users\\ALAMIIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\Yabraa\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ALAMIIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -183,11 +174,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\New folder (2)\\P\\Yabraa\\EmailService\\EmailService.csproj": {
-                "projectPath": "D:\\New folder (2)\\P\\Yabraa\\EmailService\\EmailService.csproj"
+              "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\EmailService\\EmailService.csproj": {
+                "projectPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\EmailService\\EmailService.csproj"
               },
-              "D:\\New folder (2)\\P\\Yabraa\\YabraaEF\\YabraaEF.csproj": {
-                "projectPath": "D:\\New folder (2)\\P\\Yabraa\\YabraaEF\\YabraaEF.csproj"
+              "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\YabraaEF\\YabraaEF.csproj": {
+                "projectPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\YabraaEF\\YabraaEF.csproj"
               }
             }
           }
@@ -270,7 +261,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

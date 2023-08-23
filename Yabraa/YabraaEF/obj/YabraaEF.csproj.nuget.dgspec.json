@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder (2)\\P\\Yabraa\\YabraaEF\\YabraaEF.csproj": {}
+    "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\YabraaEF\\YabraaEF.csproj": {}
   },
   "projects": {
-    "D:\\New folder (2)\\P\\Yabraa\\YabraaEF\\YabraaEF.csproj": {
+    "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\YabraaEF\\YabraaEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder (2)\\P\\Yabraa\\YabraaEF\\YabraaEF.csproj",
+        "projectUniqueName": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\YabraaEF\\YabraaEF.csproj",
         "projectName": "YabraaEF",
-        "projectPath": "D:\\New folder (2)\\P\\Yabraa\\YabraaEF\\YabraaEF.csproj",
-        "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder (2)\\P\\Yabraa\\YabraaEF\\obj\\",
+        "projectPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\YabraaEF\\YabraaEF.csproj",
+        "packagesPath": "C:\\Users\\ALAMIIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALAMIIA\\Documents\\GitHub\\Yabraa\\Yabraa\\YabraaEF\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ALAMIIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
